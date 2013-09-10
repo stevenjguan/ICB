@@ -1,0 +1,21 @@
+DESCRIPTION OF VARIOUS CODE
+
+test.cpp + udp.cpp + sync.h form together the sync algorithm.
+- test.cpp is a simple test .cpp file that launches my algorithm
+- udp.cpp contains the actual wireless sync algorithm and clock (not standalone!)
+- sync.h simply holds functions and variables shared between cpp files
+- it will print out a local timestamp whenever it sends a packet and print out the current counter value when it receives a packet (including it's own).
+
+calc.cpp is a companion program for the sync algorithm. it will give you various statistics from a log file from udp.cpp (average period, standard deviation, counter histogram, etc.)
+
+rec.cpp is listening program that will print out a local time stamp when it receives a packet from the subnet broadcast address. it is used to calculate how synchonized the network is
+
+The compare.cpp's were created to analyze the sync logs from rec.cpp. Companion to a log file from rec.cpp (just like calc.cpp is a companion for udp.cpp)
+- compare.cpp is used for a sync log with 2 expected packets per period
+- 3compare.cpp is used for a sync log with 3 expected packets per period
+- 4compare.cpp is used for a 4 sync log with 4 expected packets per period
+- 5compare.cpp is used for a 5 sync log with 5 expected packets per period
+- 5-4compare.cpp is like 5compare.cpp but will detect and analyze when there is 4 packets a period instead of 5 packets per period (the statistics given from this program are mutually exclusive. note that running 5compare.cpp and 4compare.cpp on the same log file will analyze and "overlap" over the same packets while 5-4 won't)
+
+sscript.sh is the startup script used on the boards to have them run standalone
+- They will make sure the network drivers (libertas_sdio) is fully loaded into the kernel and it will run the sync algorithm and log it. After a specified time duration within the program elapses, it will exit out of the sync algorithm and use netcat to listen on a port and be ready to send the log file to the first person to connect.

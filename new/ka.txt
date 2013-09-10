@@ -1,0 +1,319 @@
+sent packet at 5.727111 seconds
+counter: 0
+sent packet at 6.725189 seconds
+counter: 0
+sent packet at 7.723236 seconds
+counter: 0
+sent packet at 8.721221 seconds
+counter: 0
+sent packet at 9.719543 seconds
+counter: 0
+sent packet at 10.717529 seconds
+counter: 0
+sent packet at 11.715393 seconds
+counter: 0
+sent packet at 12.713409 seconds
+counter: 0
+sent packet at 13.711303 seconds
+counter: 0
+sent packet at 14.709259 seconds
+counter: 0
+sent packet at 15.707092 seconds
+counter: 0
+sent packet at 16.704956 seconds
+counter: 0
+sent packet at 17.702911 seconds
+counter: 0
+sent packet at 18.700836 seconds
+counter: 0
+sent packet at 19.698638 seconds
+counter: 0
+sent packet at 20.696563 seconds
+counter: 0
+sent packet at 21.694427 seconds
+counter: 0
+sent packet at 22.692413 seconds
+counter: 0
+sent packet at 23.690246 seconds
+counter: 0
+sent packet at 24.688140 seconds
+counter: 0
+sent packet at 25.685974 seconds
+counter: 0
+sent packet at 26.683898 seconds
+counter: 0
+sent packet at 27.681854 seconds
+counter: 0
+sent packet at 28.679779 seconds
+counter: 0
+sent packet at 29.677612 seconds
+counter: 0
+sent packet at 30.675506 seconds
+counter: 0
+sent packet at 31.673339 seconds
+counter: 0
+sent packet at 32.671325 seconds
+counter: 0
+sent packet at 33.669189 seconds
+counter: 0
+sent packet at 34.667114 seconds
+counter: 0
+sent packet at 35.664947 seconds
+counter: 0
+sent packet at 36.662841 seconds
+counter: 0
+sent packet at 37.660766 seconds
+counter: 0
+sent packet at 38.658691 seconds
+counter: 0
+sent packet at 39.656524 seconds
+counter: 0
+sent packet at 40.654419 seconds
+counter: 0
+sent packet at 41.652252 seconds
+counter: 0
+sent packet at 42.650238 seconds
+counter: 0
+sent packet at 43.648071 seconds
+counter: 0
+sent packet at 44.645996 seconds
+counter: 0
+sent packet at 45.643829 seconds
+counter: 0
+sent packet at 46.641723 seconds
+counter: 0
+sent packet at 47.639679 seconds
+counter: 0
+sent packet at 48.637573 seconds
+counter: 0
+sent packet at 49.635406 seconds
+counter: 0
+sent packet at 50.633331 seconds
+counter: 0
+sent packet at 51.631195 seconds
+counter: 0
+sent packet at 52.629272 seconds
+counter: 0
+sent packet at 53.627136 seconds
+counter: 0
+sent packet at 54.625061 seconds
+counter: 0
+sent packet at 55.622894 seconds
+counter: 0
+sent packet at 56.620819 seconds
+counter: 0
+sent packet at 57.618805 seconds
+counter: 0
+sent packet at 58.616760 seconds
+counter: 0
+sent packet at 59.614654 seconds
+counter: 0
+sent packet at 0.612518 seconds
+counter: 0
+sent packet at 1.610412 seconds
+counter: 0
+sent packet at 2.608490 seconds
+counter: 0
+sent packet at 3.606353 seconds
+counter: 0
+sent packet at 4.604248 seconds
+counter: 0
+sent packet at 5.602081 seconds
+counter: 0
+sent packet at 6.600006 seconds
+counter: 0
+sent packet at 7.597992 seconds
+counter: 0
+sent packet at 8.595916 seconds
+counter: 0
+sent packet at 9.593750 seconds
+counter: 0
+sent packet at 10.591674 seconds
+counter: 0
+sent packet at 11.589477 seconds
+counter: 0
+sent packet at 12.587707 seconds
+counter: 0
+sent packet at 13.585571 seconds
+counter: 0
+sent packet at 14.583526 seconds
+counter: 0
+sent packet at 15.581359 seconds
+counter: 0
+sent packet at 16.579254 seconds
+counter: 0
+sent packet at 17.577270 seconds
+counter: 0
+sent packet at 18.575195 seconds
+counter: 0
+sent packet at 19.572998 seconds
+counter: 0
+sent packet at 20.570922 seconds
+counter: 0
+sent packet at 21.568756 seconds
+counter: 0
+sent packet at 22.566803 seconds
+counter: 0
+sent packet at 23.564636 seconds
+counter: 0
+sent packet at 24.562530 seconds
+counter: 0
+sent packet at 25.560363 seconds
+counter: 0
+sent packet at 26.558258 seconds
+counter: 0
+sent packet at 27.556243 seconds
+counter: 0
+sent packet at 28.554168 seconds
+counter: 0
+sent packet at 29.552002 seconds
+counter: 0
+sent packet at 30.549926 seconds
+counter: 0
+sent packet at 31.547729 seconds
+counter: 0
+sent packet at 32.545776 seconds
+counter: 0
+sent packet at 33.543640 seconds
+counter: 0
+sent packet at 34.541534 seconds
+counter: 0
+sent packet at 35.539367 seconds
+counter: 0
+sent packet at 36.537231 seconds
+counter: 0
+sent packet at 37.535217 seconds
+counter: 0
+sent packet at 38.533142 seconds
+counter: 0
+sent packet at 39.531005 seconds
+counter: 0
+sent packet at 40.528900 seconds
+counter: 0
+sent packet at 41.526702 seconds
+counter: 0
+sent packet at 42.525146 seconds
+counter: 0
+sent packet at 43.523071 seconds
+counter: 0
+sent packet at 44.521026 seconds
+counter: 0
+sent packet at 45.518890 seconds
+counter: 0
+sent packet at 46.516815 seconds
+counter: 0
+sent packet at 47.515686 seconds
+counter: 0
+sent packet at 48.513641 seconds
+counter: 0
+sent packet at 49.511474 seconds
+counter: 0
+sent packet at 50.509430 seconds
+counter: 0
+sent packet at 51.507263 seconds
+counter: 0
+sent packet at 52.505279 seconds
+counter: 0
+sent packet at 53.503112 seconds
+counter: 0
+sent packet at 54.501037 seconds
+counter: 0
+sent packet at 55.498870 seconds
+counter: 0
+sent packet at 56.496765 seconds
+counter: 0
+sent packet at 57.494690 seconds
+counter: 0
+sent packet at 58.492614 seconds
+counter: 0
+sent packet at 59.490478 seconds
+counter: 0
+sent packet at 0.488342 seconds
+counter: 0
+sent packet at 1.486145 seconds
+counter: 0
+sent packet at 2.484191 seconds
+counter: 0
+sent packet at 3.482055 seconds
+counter: 0
+sent packet at 4.479950 seconds
+counter: 0
+sent packet at 5.477783 seconds
+counter: 0
+sent packet at 6.475677 seconds
+counter: 0
+sent packet at 7.473632 seconds
+counter: 0
+sent packet at 8.471557 seconds
+counter: 0
+sent packet at 9.469360 seconds
+counter: 0
+sent packet at 10.467285 seconds
+counter: 0
+sent packet at 11.465118 seconds
+counter: 0
+sent packet at 12.463073 seconds
+counter: 0
+sent packet at 13.460907 seconds
+counter: 0
+sent packet at 14.458862 seconds
+counter: 0
+sent packet at 15.456695 seconds
+counter: 0
+sent packet at 16.454589 seconds
+counter: 0
+sent packet at 17.452514 seconds
+counter: 0
+sent packet at 18.450409 seconds
+counter: 0
+sent packet at 19.448242 seconds
+counter: 0
+sent packet at 20.446136 seconds
+counter: 0
+sent packet at 21.443969 seconds
+counter: 0
+sent packet at 22.441986 seconds
+counter: 0
+sent packet at 23.439819 seconds
+counter: 0
+sent packet at 24.437713 seconds
+counter: 0
+sent packet at 25.435546 seconds
+counter: 0
+sent packet at 26.433471 seconds
+counter: 0
+sent packet at 27.431396 seconds
+counter: 0
+sent packet at 28.429290 seconds
+counter: 0
+sent packet at 29.427154 seconds
+counter: 0
+sent packet at 30.425018 seconds
+counter: 0
+sent packet at 31.422851 seconds
+counter: 0
+sent packet at 32.420837 seconds
+counter: 0
+sent packet at 33.418701 seconds
+counter: 0
+sent packet at 34.416595 seconds
+counter: 0
+sent packet at 35.414428 seconds
+counter: 0
+sent packet at 36.412292 seconds
+counter: 0
+sent packet at 37.410247 seconds
+counter: 0
+sent packet at 38.408172 seconds
+counter: 0
+sent packet at 39.406005 seconds
+counter: 0
+sent packet at 40.403900 seconds
+counter: 0
+sent packet at 41.401702 seconds
+counter: 0
+sent packet at 42.399719 seconds
+counter: 0
+sent packet at 43.397552 seconds
+counter: 0
+sent packet at 44.395477 seconds

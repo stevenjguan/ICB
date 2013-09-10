@@ -1,0 +1,5 @@
+- Finalized local clock API
+- Created a 1 hour start up sync session on boards
+- Did a 1 hour session of an all to all 3 node network
+- Tested free running period for nodes B and C.
+

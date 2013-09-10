@@ -1,0 +1,8558 @@
+sent packet at 9.607513
+counter: 0
+counter: 9994
+sent packet at 10.607513
+counter: 0
+counter: 9999
+sent packet at 11.607666
+counter: 0
+sent packet at 12.607330
+counter: 0
+counter: 11
+counter: 9990
+sent packet at 13.607086
+counter: 0
+sent packet at 14.606872
+counter: 0
+counter: 16
+sent packet at 15.607299
+counter: 0
+counter: 9998
+sent packet at 16.607360
+counter: 0
+counter: 9995
+sent packet at 17.607208
+counter: 0
+counter: 9994
+sent packet at 18.607116
+counter: 0
+counter: 9993
+sent packet at 19.606994
+counter: 0
+counter: 9993
+sent packet at 20.606842
+counter: 0
+counter: 9994
+sent packet at 21.606689
+counter: 0
+counter: 9993
+sent packet at 22.606506
+counter: 0
+sent packet at 23.606048
+counter: 0
+sent packet at 24.605865
+counter: 0
+counter: 21
+sent packet at 25.605621
+counter: 0
+counter: 9997
+sent packet at 26.605804
+counter: 0
+sent packet at 27.605377
+counter: 0
+counter: 4
+counter: 9993
+sent packet at 28.605407
+counter: 0
+sent packet at 29.605072
+counter: 0
+counter: 9995
+sent packet at 30.605010
+counter: 0
+sent packet at 31.604583
+counter: 0
+counter: 9995
+sent packet at 32.604553
+counter: 0
+counter: 9995
+sent packet at 33.604431
+counter: 0
+sent packet at 34.604156
+counter: 0
+counter: 3
+sent packet at 35.603912
+counter: 0
+sent packet at 36.603576
+counter: 0
+counter: 9998
+sent packet at 37.603607
+counter: 0
+counter: 9995
+sent packet at 38.603546
+counter: 0
+counter: 9994
+sent packet at 39.603546
+counter: 0
+counter: 9994
+sent packet at 40.603485
+counter: 0
+sent packet at 41.603057
+counter: 0
+sent packet at 42.602691
+counter: 0
+sent packet at 43.602233
+counter: 0
+counter: 9
+sent packet at 44.602203
+counter: 0
+counter: 7
+counter: 9996
+sent packet at 45.602386
+counter: 0
+counter: 9993
+sent packet at 46.602203
+counter: 0
+counter: 9994
+sent packet at 47.602081
+counter: 0
+counter: 9993
+sent packet at 48.601898
+counter: 0
+sent packet at 49.601562
+counter: 0
+counter: 27
+sent packet at 50.601409
+counter: 0
+counter: 31
+sent packet at 51.601165
+counter: 0
+counter: 36
+sent packet at 52.600982
+counter: 0
+counter: 27
+sent packet at 53.600708
+counter: 0
+counter: 31
+sent packet at 54.600646
+counter: 0
+sent packet at 55.600250
+counter: 0
+counter: 33
+sent packet at 56.600128
+counter: 0
+counter: 42
+sent packet at 57.599884
+counter: 0
+counter: 37
+sent packet at 58.599700
+counter: 0
+counter: 40
+sent packet at 59.599548
+counter: 0
+counter: 45
+sent packet at 0.599395
+counter: 0
+sent packet at 1.598999
+counter: 0
+counter: 53
+sent packet at 2.602050
+counter: 0
+sent packet at 3.601593
+counter: 0
+counter: 9
+sent packet at 4.601745
+counter: 0
+counter: 6
+sent packet at 5.601562
+counter: 0
+counter: 28
+sent packet at 6.601409
+counter: 0
+counter: 7
+sent packet at 7.601165
+counter: 0
+counter: 10
+sent packet at 8.601013
+counter: 0
+counter: 11
+sent packet at 9.600952
+counter: 0
+counter: 7
+sent packet at 10.600769
+counter: 0
+counter: 6
+sent packet at 11.600555
+counter: 0
+counter: 36
+sent packet at 12.600372
+counter: 0
+counter: 7
+sent packet at 13.600128
+counter: 0
+counter: 8
+sent packet at 14.600097
+counter: 0
+sent packet at 15.599700
+counter: 0
+counter: 31
+sent packet at 16.599548
+counter: 0
+counter: 24
+sent packet at 17.599304
+counter: 0
+counter: 9
+sent packet at 18.599090
+counter: 0
+counter: 11
+sent packet at 19.598937
+counter: 0
+counter: 9
+sent packet at 20.598815
+counter: 0
+counter: 9
+sent packet at 21.598571
+counter: 0
+counter: 10
+sent packet at 22.598388
+counter: 0
+counter: 10
+sent packet at 23.598144
+counter: 0
+counter: 11
+sent packet at 24.598114
+counter: 0
+counter: 13
+sent packet at 25.597900
+counter: 0
+counter: 23
+sent packet at 26.597747
+counter: 0
+counter: 12
+sent packet at 27.597503
+counter: 0
+counter: 10
+sent packet at 28.597351
+counter: 0
+counter: 9
+sent packet at 29.597198
+counter: 0
+counter: 8
+sent packet at 30.597045
+counter: 0
+counter: 8
+sent packet at 31.596801
+counter: 0
+counter: 21
+sent packet at 32.596649
+counter: 0
+counter: 41
+sent packet at 33.596405
+counter: 0
+sent packet at 34.596557
+counter: 0
+counter: 8
+sent packet at 35.596405
+counter: 0
+counter: 27
+sent packet at 36.596282
+counter: 0
+counter: 23
+sent packet at 37.596038
+counter: 0
+counter: 30
+sent packet at 38.595886
+counter: 0
+counter: 21
+sent packet at 39.596679
+counter: 0
+counter: 9
+sent packet at 40.596588
+counter: 0
+counter: 9
+sent packet at 41.596374
+counter: 0
+counter: 10
+sent packet at 42.596191
+counter: 0
+counter: 29
+sent packet at 43.595947
+counter: 0
+counter: 13
+sent packet at 44.595916
+counter: 0
+counter: 7
+sent packet at 45.595703
+counter: 0
+counter: 9
+sent packet at 46.595550
+counter: 0
+counter: 7
+sent packet at 47.595275
+counter: 0
+counter: 8
+sent packet at 48.595092
+counter: 0
+counter: 8
+sent packet at 49.594940
+counter: 0
+counter: 11
+sent packet at 50.594787
+counter: 0
+counter: 9
+sent packet at 51.594543
+counter: 0
+counter: 10
+sent packet at 52.594482
+counter: 0
+counter: 9
+sent packet at 53.594238
+counter: 0
+counter: 10
+sent packet at 54.594207
+counter: 0
+counter: 7
+sent packet at 55.593963
+counter: 0
+counter: 9
+sent packet at 56.593841
+counter: 0
+counter: 9
+sent packet at 57.593597
+counter: 0
+counter: 9
+sent packet at 58.593444
+counter: 0
+counter: 11
+sent packet at 59.593292
+counter: 0
+counter: 8
+sent packet at 0.593139
+counter: 0
+sent packet at 1.592773
+counter: 0
+counter: 10
+counter: 9996
+sent packet at 2.594757
+counter: 0
+counter: 9993
+sent packet at 3.594604
+counter: 0
+counter: 9993
+sent packet at 4.594726
+counter: 0
+counter: 9991
+sent packet at 5.594421
+counter: 0
+sent packet at 6.594085
+counter: 0
+sent packet at 7.593750
+counter: 0
+counter: 35
+sent packet at 8.593627
+counter: 0
+counter: 21
+sent packet at 9.593536
+counter: 0
+counter: 31
+sent packet at 10.593414
+counter: 0
+counter: 21
+sent packet at 11.593200
+counter: 0
+sent packet at 12.592834
+counter: 0
+counter: 23
+sent packet at 13.592590
+counter: 0
+counter: 23
+sent packet at 14.592559
+counter: 0
+counter: 21
+sent packet at 15.592346
+counter: 0
+counter: 22
+sent packet at 16.592163
+counter: 0
+counter: 40
+sent packet at 17.591949
+counter: 0
+counter: 39
+sent packet at 18.591735
+counter: 0
+counter: 22
+sent packet at 19.591613
+counter: 0
+sent packet at 20.591278
+counter: 0
+counter: 26
+sent packet at 21.591064
+counter: 0
+counter: 26
+sent packet at 22.590881
+counter: 0
+counter: 26
+sent packet at 23.590606
+counter: 0
+counter: 48
+sent packet at 24.590576
+counter: 0
+counter: 25
+sent packet at 25.590362
+counter: 0
+sent packet at 26.590026
+counter: 0
+counter: 49
+sent packet at 27.589813
+counter: 0
+counter: 44
+sent packet at 28.589721
+counter: 0
+counter: 29
+sent packet at 29.589569
+counter: 0
+counter: 28
+sent packet at 30.589385
+counter: 0
+counter: 27
+sent packet at 31.589141
+counter: 0
+counter: 30
+sent packet at 32.589141
+counter: 0
+counter: 27
+sent packet at 33.588897
+counter: 0
+counter: 25
+sent packet at 34.588836
+counter: 0
+counter: 23
+sent packet at 35.588623
+counter: 0
+counter: 27
+sent packet at 36.588439
+counter: 0
+sent packet at 37.588043
+counter: 0
+counter: 27
+sent packet at 38.587890
+counter: 0
+counter: 27
+sent packet at 39.587799
+counter: 0
+counter: 30
+sent packet at 40.587646
+counter: 0
+counter: 24
+sent packet at 41.587402
+counter: 0
+counter: 27
+sent packet at 42.587219
+counter: 0
+counter: 27
+sent packet at 43.586975
+counter: 0
+sent packet at 44.586761
+counter: 0
+counter: 26
+sent packet at 45.586547
+counter: 0
+counter: 28
+sent packet at 46.586364
+counter: 0
+counter: 27
+sent packet at 47.586151
+counter: 0
+counter: 30
+sent packet at 48.585968
+counter: 0
+counter: 27
+sent packet at 49.585784
+counter: 0
+counter: 27
+sent packet at 50.585662
+counter: 0
+counter: 27
+sent packet at 51.585418
+counter: 0
+counter: 32
+sent packet at 52.585266
+counter: 0
+counter: 32
+sent packet at 53.584991
+counter: 0
+counter: 37
+sent packet at 54.584930
+counter: 0
+sent packet at 55.584533
+counter: 0
+counter: 40
+sent packet at 56.584381
+counter: 0
+counter: 40
+sent packet at 57.584167
+counter: 0
+counter: 39
+sent packet at 58.584014
+counter: 0
+counter: 44
+sent packet at 59.583862
+counter: 0
+counter: 47
+sent packet at 0.583709
+counter: 0
+sent packet at 1.583282
+counter: 0
+counter: 52
+sent packet at 2.586730
+counter: 0
+sent packet at 3.586395
+counter: 0
+counter: 26
+sent packet at 4.586395
+counter: 0
+counter: 22
+sent packet at 5.586181
+counter: 0
+counter: 24
+sent packet at 6.586029
+counter: 0
+counter: 25
+sent packet at 7.586669
+counter: 0
+counter: 23
+sent packet at 8.586578
+counter: 0
+counter: 22
+sent packet at 9.586486
+counter: 0
+counter: 12
+sent packet at 10.586364
+counter: 0
+counter: 11
+sent packet at 11.586120
+counter: 0
+counter: 22
+sent packet at 12.585937
+counter: 0
+counter: 13
+sent packet at 13.585693
+counter: 0
+counter: 15
+sent packet at 14.585601
+counter: 0
+sent packet at 15.585205
+counter: 0
+counter: 12
+sent packet at 16.585052
+counter: 0
+sent packet at 17.584625
+counter: 0
+counter: 21
+sent packet at 18.584442
+counter: 0
+counter: 21
+sent packet at 19.584289
+counter: 0
+counter: 19
+sent packet at 20.584167
+counter: 0
+counter: 11
+sent packet at 21.583953
+counter: 0
+counter: 13
+sent packet at 22.583740
+counter: 0
+counter: 22
+sent packet at 23.583496
+counter: 0
+counter: 25
+sent packet at 24.583465
+counter: 0
+counter: 11
+sent packet at 25.583251
+counter: 0
+counter: 12
+sent packet at 26.583099
+counter: 0
+counter: 12
+sent packet at 27.582855
+counter: 0
+sent packet at 28.582519
+counter: 0
+counter: 22
+sent packet at 29.582366
+counter: 0
+counter: 21
+sent packet at 30.582183
+counter: 0
+counter: 13
+sent packet at 31.581939
+counter: 0
+counter: 13
+sent packet at 32.581787
+counter: 0
+counter: 12
+sent packet at 33.581512
+counter: 0
+counter: 16
+sent packet at 34.581420
+counter: 0
+counter: 11
+sent packet at 35.581207
+counter: 0
+counter: 12
+sent packet at 36.580993
+counter: 0
+counter: 32
+sent packet at 37.580749
+counter: 0
+counter: 22
+sent packet at 38.580566
+counter: 0
+counter: 24
+sent packet at 39.580444
+counter: 0
+counter: 12
+sent packet at 40.580291
+counter: 0
+counter: 11
+sent packet at 41.580047
+counter: 0
+sent packet at 42.579650
+counter: 0
+sent packet at 43.579223
+counter: 0
+counter: 20
+sent packet at 44.579162
+counter: 0
+counter: 25
+sent packet at 45.578948
+counter: 0
+counter: 33
+sent packet at 46.578765
+counter: 0
+counter: 21
+sent packet at 47.578491
+counter: 0
+counter: 22
+sent packet at 48.578308
+counter: 0
+counter: 23
+sent packet at 49.578125
+counter: 0
+counter: 21
+sent packet at 50.577972
+counter: 0
+counter: 37
+sent packet at 51.577758
+counter: 0
+counter: 22
+sent packet at 52.577667
+counter: 0
+counter: 34
+sent packet at 53.577453
+counter: 0
+counter: 54
+counter: 9986
+sent packet at 54.580505
+counter: 0
+counter: 9991
+sent packet at 55.580169
+counter: 0
+counter: 9993
+sent packet at 56.580078
+counter: 0
+counter: 9994
+sent packet at 57.579925
+counter: 0
+counter: 9994
+sent packet at 58.579833
+counter: 0
+counter: 9994
+sent packet at 59.579895
+counter: 0
+counter: 9990
+sent packet at 0.579620
+counter: 0
+counter: 9993
+sent packet at 1.579376
+counter: 0
+counter: 9993
+sent packet at 2.579223
+counter: 0
+counter: 9994
+sent packet at 3.579071
+counter: 0
+counter: 9992
+sent packet at 4.579040
+counter: 0
+counter: 9992
+sent packet at 5.578857
+counter: 0
+counter: 9993
+sent packet at 6.578704
+counter: 0
+counter: 9994
+sent packet at 7.578552
+counter: 0
+counter: 9992
+sent packet at 8.578399
+counter: 0
+counter: 9991
+sent packet at 9.578186
+counter: 0
+counter: 9992
+sent packet at 10.578063
+counter: 0
+sent packet at 11.577636
+counter: 0
+counter: 28
+sent packet at 12.577453
+counter: 0
+counter: 28
+sent packet at 13.577209
+counter: 0
+counter: 27
+sent packet at 14.577117
+counter: 0
+counter: 26
+sent packet at 15.577209
+counter: 0
+counter: 21
+sent packet at 16.577331
+counter: 0
+counter: 24
+sent packet at 17.577117
+counter: 0
+counter: 21
+sent packet at 18.576934
+counter: 0
+counter: 21
+sent packet at 19.576812
+counter: 0
+counter: 40
+sent packet at 20.576721
+counter: 0
+counter: 22
+sent packet at 21.576507
+counter: 0
+counter: 22
+sent packet at 22.576324
+counter: 0
+counter: 21
+sent packet at 23.576080
+counter: 0
+counter: 21
+sent packet at 24.576049
+counter: 0
+sent packet at 25.575683
+counter: 0
+counter: 26
+sent packet at 26.575561
+counter: 0
+counter: 26
+sent packet at 27.575317
+counter: 0
+counter: 52
+counter: 9994
+sent packet at 28.578674
+counter: 0
+counter: 9999
+sent packet at 29.578918
+counter: 0
+counter: 9994
+sent packet at 30.579315
+counter: 0
+counter: 9994
+sent packet at 31.579223
+counter: 0
+counter: 9996
+sent packet at 32.579315
+counter: 0
+counter: 9991
+sent packet at 33.578979
+counter: 0
+counter: 9992
+sent packet at 34.578796
+counter: 0
+counter: 9985
+sent packet at 35.579101
+counter: 0
+sent packet at 36.578826
+counter: 0
+counter: 9993
+sent packet at 37.578613
+counter: 0
+counter: 9989
+sent packet at 38.578277
+counter: 0
+counter: 9991
+sent packet at 39.578002
+counter: 0
+counter: 9990
+sent packet at 40.577789
+counter: 0
+counter: 9993
+sent packet at 41.577606
+counter: 0
+counter: 9993
+sent packet at 42.577392
+counter: 0
+counter: 9996
+sent packet at 43.577331
+counter: 0
+sent packet at 44.577026
+counter: 0
+counter: 9993
+sent packet at 45.576934
+counter: 0
+sent packet at 46.576599
+counter: 0
+counter: 9994
+sent packet at 47.576446
+counter: 0
+counter: 9992
+sent packet at 48.576293
+counter: 0
+counter: 9993
+sent packet at 49.576019
+counter: 0
+sent packet at 50.575775
+counter: 0
+counter: 9989
+sent packet at 51.575927
+counter: 0
+counter: 9991
+sent packet at 52.575683
+counter: 0
+counter: 9992
+sent packet at 53.575439
+counter: 0
+sent packet at 54.575073
+counter: 0
+counter: 9996
+sent packet at 55.575164
+counter: 0
+counter: 9991
+sent packet at 56.574981
+counter: 0
+counter: 9992
+sent packet at 57.574737
+counter: 0
+sent packet at 58.574371
+counter: 0
+counter: 3
+counter: 9992
+sent packet at 59.574249
+counter: 0
+sent packet at 0.574005
+counter: 0
+counter: 1
+sent packet at 1.573760
+counter: 0
+counter: 6
+counter: 9991
+sent packet at 2.573699
+counter: 0
+counter: 9997
+sent packet at 3.573760
+counter: 0
+sent packet at 4.573364
+counter: 0
+counter: 41
+sent packet at 5.573272
+counter: 0
+counter: 40
+sent packet at 6.573089
+counter: 0
+counter: 46
+sent packet at 7.572845
+counter: 0
+counter: 40
+sent packet at 8.572692
+counter: 0
+counter: 38
+sent packet at 9.572479
+counter: 0
+sent packet at 10.572204
+counter: 0
+counter: 41
+sent packet at 11.571960
+counter: 0
+sent packet at 12.571594
+counter: 0
+counter: 44
+sent packet at 13.571350
+counter: 0
+counter: 44
+sent packet at 14.571136
+counter: 0
+counter: 40
+sent packet at 15.571014
+counter: 0
+counter: 43
+sent packet at 16.570861
+counter: 0
+counter: 40
+sent packet at 17.570587
+counter: 0
+counter: 44
+sent packet at 18.570404
+counter: 0
+counter: 41
+sent packet at 19.570129
+counter: 0
+counter: 40
+sent packet at 20.570068
+counter: 0
+counter: 38
+sent packet at 21.569824
+counter: 0
+counter: 40
+sent packet at 22.569641
+counter: 0
+counter: 38
+sent packet at 23.569366
+counter: 0
+counter: 38
+sent packet at 24.569213
+counter: 0
+sent packet at 25.568908
+counter: 0
+counter: 40
+sent packet at 26.568908
+counter: 0
+counter: 43
+sent packet at 27.568695
+counter: 0
+sent packet at 28.568389
+counter: 0
+counter: 39
+sent packet at 29.568145
+counter: 0
+counter: 39
+sent packet at 30.568084
+counter: 0
+counter: 41
+sent packet at 31.567901
+counter: 0
+counter: 39
+sent packet at 32.567749
+counter: 0
+counter: 45
+sent packet at 33.567535
+counter: 0
+counter: 38
+sent packet at 34.567321
+counter: 0
+counter: 44
+sent packet at 35.567199
+counter: 0
+counter: 41
+sent packet at 36.567077
+counter: 0
+counter: 40
+sent packet at 37.566833
+counter: 0
+counter: 121
+sent packet at 38.573944
+counter: 0
+sent packet at 39.573577
+counter: 0
+counter: 26
+sent packet at 40.573486
+counter: 0
+counter: 22
+sent packet at 41.573272
+counter: 0
+counter: 21
+sent packet at 42.573059
+counter: 0
+counter: 20
+sent packet at 43.572814
+counter: 0
+counter: 21
+sent packet at 44.572662
+counter: 0
+counter: 22
+sent packet at 45.572540
+counter: 0
+counter: 37
+sent packet at 46.572387
+counter: 0
+counter: 22
+sent packet at 47.572143
+counter: 0
+counter: 41
+sent packet at 48.571960
+counter: 0
+counter: 21
+sent packet at 49.571716
+counter: 0
+counter: 22
+sent packet at 50.571655
+counter: 0
+counter: 23
+sent packet at 51.571441
+counter: 0
+counter: 27
+sent packet at 52.571350
+counter: 0
+counter: 27
+sent packet at 53.571136
+counter: 0
+counter: 29
+sent packet at 54.570953
+counter: 0
+counter: 44
+sent packet at 55.571166
+counter: 0
+counter: 29
+sent packet at 56.571166
+counter: 0
+counter: 35
+sent packet at 57.570953
+counter: 0
+counter: 38
+sent packet at 58.570800
+counter: 0
+counter: 46
+sent packet at 59.570556
+counter: 0
+counter: 42
+sent packet at 0.571380
+counter: 0
+counter: 36
+sent packet at 1.571197
+counter: 0
+sent packet at 2.570892
+counter: 0
+counter: 39
+sent packet at 3.570648
+counter: 0
+counter: 39
+sent packet at 4.570465
+counter: 0
+counter: 40
+sent packet at 5.570373
+counter: 0
+counter: 40
+sent packet at 6.570190
+counter: 0
+counter: 39
+sent packet at 7.569946
+counter: 0
+counter: 38
+sent packet at 8.569793
+counter: 0
+counter: 37
+sent packet at 9.569519
+counter: 0
+counter: 38
+sent packet at 10.569458
+counter: 0
+counter: 37
+sent packet at 11.569244
+counter: 0
+counter: 45
+sent packet at 12.569061
+counter: 0
+counter: 39
+sent packet at 13.568817
+counter: 0
+counter: 42
+sent packet at 14.568634
+counter: 0
+sent packet at 15.568328
+counter: 0
+counter: 39
+sent packet at 16.568176
+counter: 0
+counter: 38
+sent packet at 17.567932
+counter: 0
+sent packet at 18.567535
+counter: 0
+counter: 40
+sent packet at 19.567291
+counter: 0
+counter: 54
+sent packet at 20.570526
+counter: 0
+counter: 3
+sent packet at 21.570312
+counter: 0
+counter: 6
+sent packet at 22.570098
+counter: 0
+counter: 11
+sent packet at 23.569854
+counter: 0
+counter: 40
+sent packet at 24.569671
+counter: 0
+sent packet at 25.569366
+counter: 0
+sent packet at 26.569030
+counter: 0
+counter: 41
+sent packet at 27.568786
+counter: 0
+counter: 39
+sent packet at 28.568664
+counter: 0
+counter: 38
+sent packet at 29.568389
+counter: 0
+counter: 38
+sent packet at 30.568298
+counter: 0
+counter: 37
+sent packet at 31.568084
+counter: 0
+counter: 39
+sent packet at 32.567962
+counter: 0
+counter: 40
+sent packet at 33.567687
+counter: 0
+counter: 42
+sent packet at 34.567504
+counter: 0
+counter: 39
+sent packet at 35.567352
+counter: 0
+counter: 38
+sent packet at 36.567199
+counter: 0
+counter: 39
+sent packet at 37.566955
+counter: 0
+sent packet at 38.566589
+counter: 0
+counter: 42
+sent packet at 39.566802
+counter: 0
+sent packet at 40.566680
+counter: 0
+counter: 37
+sent packet at 41.566497
+counter: 0
+counter: 50
+sent packet at 42.569305
+counter: 0
+counter: 6
+sent packet at 43.569091
+counter: 0
+counter: 8
+sent packet at 44.568939
+counter: 0
+counter: 5
+sent packet at 45.568817
+counter: 0
+sent packet at 46.568481
+counter: 0
+counter: 7
+sent packet at 47.568206
+counter: 0
+counter: 8
+sent packet at 48.568023
+counter: 0
+counter: 10
+sent packet at 49.567779
+counter: 0
+counter: 9
+sent packet at 50.567687
+counter: 0
+counter: 7
+sent packet at 51.567474
+counter: 0
+counter: 10
+sent packet at 52.567291
+counter: 0
+counter: 9
+sent packet at 53.567047
+counter: 0
+sent packet at 54.566802
+counter: 0
+counter: 8
+sent packet at 55.566711
+counter: 0
+counter: 27
+sent packet at 56.566619
+counter: 0
+counter: 9
+sent packet at 57.566375
+counter: 0
+counter: 8
+sent packet at 58.566223
+counter: 0
+counter: 8
+sent packet at 59.565979
+counter: 0
+counter: 49
+sent packet at 0.565917
+counter: 0
+counter: 58
+sent packet at 1.569274
+counter: 0
+counter: 30
+sent packet at 2.569152
+counter: 0
+counter: 22
+sent packet at 3.568908
+counter: 0
+counter: 22
+sent packet at 4.568756
+counter: 0
+counter: 22
+sent packet at 5.568634
+counter: 0
+counter: 39
+sent packet at 6.568511
+counter: 0
+counter: 25
+sent packet at 7.568267
+counter: 0
+counter: 25
+sent packet at 8.568176
+counter: 0
+counter: 21
+sent packet at 9.567993
+counter: 0
+counter: 22
+sent packet at 10.567932
+counter: 0
+counter: 22
+sent packet at 11.567687
+counter: 0
+counter: 22
+sent packet at 12.567535
+counter: 0
+counter: 23
+sent packet at 13.567291
+counter: 0
+counter: 21
+sent packet at 14.567138
+counter: 0
+counter: 48
+sent packet at 15.567016
+counter: 0
+counter: 64
+sent packet at 16.570770
+counter: 0
+counter: 12
+sent packet at 17.570526
+counter: 0
+sent packet at 18.570159
+counter: 0
+sent packet at 19.569732
+counter: 0
+counter: 21
+sent packet at 20.569671
+counter: 0
+counter: 22
+sent packet at 21.569427
+counter: 0
+counter: 26
+sent packet at 22.569244
+counter: 0
+counter: 26
+sent packet at 23.569000
+counter: 0
+sent packet at 24.569061
+counter: 0
+counter: 22
+sent packet at 25.569061
+counter: 0
+counter: 34
+sent packet at 26.568969
+counter: 0
+counter: 28
+sent packet at 27.568786
+counter: 0
+counter: 23
+sent packet at 28.568664
+counter: 0
+counter: 12
+sent packet at 29.569335
+counter: 0
+counter: 10
+sent packet at 30.569305
+counter: 0
+counter: 7
+sent packet at 31.569122
+counter: 0
+counter: 10
+sent packet at 32.569000
+counter: 0
+counter: 27
+sent packet at 33.568756
+counter: 0
+counter: 8
+sent packet at 34.568542
+counter: 0
+counter: 9
+sent packet at 35.568420
+counter: 0
+counter: 10
+sent packet at 36.568267
+counter: 0
+counter: 8
+sent packet at 37.568023
+counter: 0
+counter: 9
+sent packet at 38.567840
+counter: 0
+counter: 10
+sent packet at 39.567626
+counter: 0
+counter: 11
+sent packet at 40.567565
+counter: 0
+counter: 7
+sent packet at 41.567352
+counter: 0
+counter: 27
+sent packet at 42.567169
+counter: 0
+counter: 38
+sent packet at 43.566894
+counter: 0
+sent packet at 44.566558
+counter: 0
+counter: 22
+sent packet at 45.566436
+counter: 0
+sent packet at 46.566101
+counter: 0
+counter: 21
+sent packet at 47.565856
+counter: 0
+counter: 35
+sent packet at 48.565673
+counter: 0
+counter: 30
+sent packet at 49.565429
+counter: 0
+counter: 45
+sent packet at 50.565368
+counter: 0
+counter: 27
+sent packet at 51.565124
+counter: 0
+sent packet at 52.564880
+counter: 0
+counter: 34
+sent packet at 53.564636
+counter: 0
+counter: 38
+sent packet at 54.564453
+counter: 0
+counter: 39
+sent packet at 55.564361
+counter: 0
+counter: 38
+sent packet at 56.564239
+counter: 0
+counter: 41
+sent packet at 57.563995
+counter: 0
+counter: 50
+sent packet at 58.566802
+counter: 0
+counter: 7
+sent packet at 59.566558
+counter: 0
+counter: 26
+sent packet at 0.566467
+counter: 0
+counter: 9
+sent packet at 1.566253
+counter: 0
+counter: 9
+sent packet at 2.566070
+counter: 0
+counter: 8
+sent packet at 3.565795
+counter: 0
+counter: 9
+sent packet at 4.565612
+counter: 0
+counter: 24
+sent packet at 5.565460
+counter: 0
+counter: 10
+sent packet at 6.565307
+counter: 0
+counter: 10
+sent packet at 7.565063
+counter: 0
+counter: 9
+sent packet at 8.564880
+counter: 0
+counter: 32
+sent packet at 9.564636
+counter: 0
+sent packet at 10.564422
+counter: 0
+counter: 75
+sent packet at 11.568664
+counter: 0
+sent packet at 12.568328
+counter: 0
+counter: 11
+sent packet at 13.568054
+counter: 0
+counter: 12
+sent packet at 14.567901
+counter: 0
+counter: 12
+sent packet at 15.567749
+counter: 0
+counter: 21
+sent packet at 16.567596
+counter: 0
+counter: 12
+sent packet at 17.567352
+counter: 0
+counter: 37
+sent packet at 18.567169
+counter: 0
+counter: 22
+sent packet at 19.566894
+counter: 0
+counter: 39
+sent packet at 20.566864
+counter: 0
+sent packet at 21.566436
+counter: 0
+sent packet at 22.566040
+counter: 0
+counter: 21
+sent packet at 23.565948
+counter: 0
+counter: 22
+sent packet at 24.565795
+counter: 0
+counter: 22
+sent packet at 25.565734
+counter: 0
+sent packet at 26.565429
+counter: 0
+counter: 22
+sent packet at 27.565185
+counter: 0
+counter: 21
+sent packet at 28.565032
+counter: 0
+counter: 22
+sent packet at 29.564819
+counter: 0
+counter: 22
+sent packet at 30.564727
+counter: 0
+counter: 22
+sent packet at 31.564514
+counter: 0
+counter: 21
+sent packet at 32.564361
+counter: 0
+counter: 21
+sent packet at 33.564117
+counter: 0
+counter: 22
+sent packet at 34.563903
+counter: 0
+counter: 17
+sent packet at 35.563751
+counter: 0
+counter: 21
+sent packet at 36.563598
+counter: 0
+counter: 21
+sent packet at 37.563354
+counter: 0
+counter: 22
+sent packet at 38.563476
+counter: 0
+counter: 13
+sent packet at 39.563537
+counter: 0
+counter: 11
+sent packet at 40.563598
+counter: 0
+counter: 22
+sent packet at 41.563873
+counter: 0
+counter: 6
+sent packet at 42.563781
+counter: 0
+counter: 8
+sent packet at 43.563568
+counter: 0
+sent packet at 44.563262
+counter: 0
+counter: 9
+sent packet at 45.563537
+counter: 0
+counter: 6
+sent packet at 46.563446
+counter: 0
+counter: 6
+sent packet at 47.563232
+counter: 0
+counter: 22
+sent packet at 48.563079
+counter: 0
+counter: 21
+sent packet at 49.562835
+counter: 0
+sent packet at 50.562622
+counter: 0
+counter: 32
+sent packet at 51.562408
+counter: 0
+counter: 16
+sent packet at 52.562225
+counter: 0
+counter: 21
+sent packet at 53.562347
+counter: 0
+counter: 11
+sent packet at 54.562255
+counter: 0
+counter: 11
+sent packet at 55.562194
+counter: 0
+sent packet at 56.561920
+counter: 0
+counter: 9
+sent packet at 57.561706
+counter: 0
+sent packet at 58.562255
+counter: 0
+counter: 1
+sent packet at 59.562072
+counter: 0
+counter: 3
+sent packet at 0.562042
+counter: 0
+sent packet at 1.561614
+counter: 0
+counter: 2
+sent packet at 2.561492
+counter: 0
+counter: 2
+sent packet at 3.561248
+counter: 0
+counter: 3
+sent packet at 4.561065
+counter: 0
+counter: 3
+sent packet at 5.560974
+counter: 0
+counter: 21
+sent packet at 6.560821
+counter: 0
+counter: 2
+sent packet at 7.560577
+counter: 0
+counter: 11
+sent packet at 8.560424
+counter: 0
+counter: 7
+sent packet at 9.560150
+counter: 0
+counter: 3
+sent packet at 10.560089
+counter: 0
+counter: 1
+sent packet at 11.559875
+counter: 0
+counter: 3
+sent packet at 12.559692
+counter: 0
+counter: 3
+sent packet at 13.559417
+counter: 0
+counter: 3
+sent packet at 14.559234
+counter: 0
+sent packet at 15.558929
+counter: 0
+counter: 2
+sent packet at 16.558776
+counter: 0
+sent packet at 17.558319
+counter: 0
+sent packet at 18.557952
+counter: 0
+counter: 7
+sent packet at 19.557678
+counter: 0
+counter: 9
+sent packet at 20.557586
+counter: 0
+counter: 6
+sent packet at 21.557373
+counter: 0
+counter: 26
+sent packet at 22.557159
+counter: 0
+counter: 8
+sent packet at 23.556915
+counter: 0
+counter: 9
+sent packet at 24.556732
+counter: 0
+counter: 8
+sent packet at 25.556640
+counter: 0
+counter: 8
+sent packet at 26.556488
+counter: 0
+counter: 6
+sent packet at 27.556243
+counter: 0
+counter: 7
+sent packet at 28.556060
+counter: 0
+counter: 6
+sent packet at 29.555786
+counter: 0
+counter: 8
+sent packet at 30.555694
+counter: 0
+counter: 7
+sent packet at 31.555450
+counter: 0
+counter: 44
+sent packet at 32.555297
+counter: 0
+counter: 40
+sent packet at 33.555023
+counter: 0
+counter: 41
+sent packet at 34.554840
+counter: 0
+counter: 39
+sent packet at 35.554687
+counter: 0
+counter: 40
+sent packet at 36.554504
+counter: 0
+counter: 38
+sent packet at 37.554260
+counter: 0
+counter: 38
+sent packet at 38.554077
+counter: 0
+counter: 39
+sent packet at 39.553833
+counter: 0
+counter: 51
+sent packet at 40.556915
+counter: 0
+counter: 7
+sent packet at 41.556671
+counter: 0
+counter: 6
+sent packet at 42.556488
+counter: 0
+counter: 24
+sent packet at 43.556213
+counter: 0
+counter: 7
+sent packet at 44.556060
+counter: 0
+counter: 6
+sent packet at 45.555908
+counter: 0
+sent packet at 46.555572
+counter: 0
+counter: 14
+sent packet at 47.555328
+counter: 0
+counter: 9
+sent packet at 48.555145
+counter: 0
+counter: 10
+sent packet at 49.554870
+counter: 0
+counter: 10
+sent packet at 50.554779
+counter: 0
+sent packet at 51.554382
+counter: 0
+counter: 12
+sent packet at 52.554443
+counter: 0
+counter: 10
+sent packet at 53.554260
+counter: 0
+counter: 10
+sent packet at 54.554077
+counter: 0
+counter: 10
+sent packet at 55.553985
+counter: 0
+counter: 39
+sent packet at 56.553863
+counter: 0
+counter: 9
+sent packet at 57.553680
+counter: 0
+counter: 9
+sent packet at 58.553527
+counter: 0
+counter: 8
+sent packet at 59.553283
+counter: 0
+sent packet at 0.553039
+counter: 0
+counter: 13
+sent packet at 1.552825
+counter: 0
+counter: 9
+sent packet at 2.552703
+counter: 0
+counter: 9
+sent packet at 3.552459
+counter: 0
+counter: 9
+sent packet at 4.552276
+counter: 0
+counter: 8
+sent packet at 5.552124
+counter: 0
+counter: 53
+sent packet at 6.555175
+counter: 0
+counter: 6
+sent packet at 7.554962
+counter: 0
+counter: 7
+sent packet at 8.554809
+counter: 0
+counter: 6
+sent packet at 9.554565
+counter: 0
+counter: 11
+sent packet at 10.554504
+counter: 0
+counter: 11
+sent packet at 11.554260
+counter: 0
+counter: 12
+sent packet at 12.554107
+counter: 0
+counter: 20
+sent packet at 13.553833
+counter: 0
+counter: 36
+sent packet at 14.553680
+counter: 0
+counter: 20
+sent packet at 15.553558
+counter: 0
+counter: 21
+sent packet at 16.553405
+counter: 0
+counter: 22
+sent packet at 17.553192
+counter: 0
+counter: 22
+sent packet at 18.553009
+counter: 0
+counter: 24
+sent packet at 19.552734
+counter: 0
+sent packet at 20.552520
+counter: 0
+sent packet at 21.552124
+counter: 0
+counter: 26
+sent packet at 22.552337
+counter: 0
+counter: 34
+sent packet at 23.552185
+counter: 0
+counter: 21
+sent packet at 24.552032
+counter: 0
+counter: 22
+sent packet at 25.551971
+counter: 0
+counter: 17
+sent packet at 26.551849
+counter: 0
+counter: 21
+sent packet at 27.552520
+counter: 0
+counter: 21
+sent packet at 28.552429
+counter: 0
+counter: 7
+sent packet at 29.552185
+counter: 0
+counter: 21
+sent packet at 30.552154
+counter: 0
+counter: 17
+sent packet at 31.551940
+counter: 0
+counter: 7
+sent packet at 32.551818
+counter: 0
+counter: 13
+sent packet at 33.551574
+counter: 0
+counter: 6
+sent packet at 34.551361
+counter: 0
+counter: 6
+sent packet at 35.551239
+counter: 0
+counter: 6
+sent packet at 36.551086
+counter: 0
+counter: 7
+sent packet at 37.550842
+counter: 0
+counter: 16
+sent packet at 38.550659
+counter: 0
+counter: 25
+sent packet at 39.550384
+counter: 0
+counter: 36
+sent packet at 40.550384
+counter: 0
+counter: 6
+sent packet at 41.550140
+counter: 0
+counter: 8
+sent packet at 42.549957
+counter: 0
+counter: 9
+sent packet at 43.549682
+counter: 0
+sent packet at 44.549346
+counter: 0
+counter: 9
+sent packet at 45.549224
+counter: 0
+counter: 8
+sent packet at 46.549072
+counter: 0
+counter: 27
+sent packet at 47.548797
+counter: 0
+counter: 9
+sent packet at 48.548614
+counter: 0
+counter: 8
+sent packet at 49.548339
+counter: 0
+counter: 9
+sent packet at 50.548248
+counter: 0
+counter: 8
+sent packet at 51.548034
+counter: 0
+counter: 10
+sent packet at 52.547851
+counter: 0
+counter: 9
+sent packet at 53.547851
+counter: 0
+counter: 7
+sent packet at 54.547943
+counter: 0
+counter: 6
+sent packet at 55.547882
+counter: 0
+counter: 3
+sent packet at 56.547821
+counter: 0
+counter: 3
+sent packet at 57.547576
+counter: 0
+counter: 9
+sent packet at 58.547393
+counter: 0
+counter: 3
+sent packet at 59.547149
+counter: 0
+counter: 3
+sent packet at 0.547088
+counter: 0
+counter: 4
+sent packet at 1.546844
+counter: 0
+counter: 3
+sent packet at 2.546691
+counter: 0
+counter: 3
+sent packet at 3.546447
+counter: 0
+counter: 3
+sent packet at 4.546264
+counter: 0
+counter: 43
+sent packet at 5.546112
+counter: 0
+counter: 53
+sent packet at 6.549163
+counter: 0
+counter: 7
+sent packet at 7.548889
+counter: 0
+counter: 8
+sent packet at 8.548736
+counter: 0
+counter: 82
+sent packet at 9.553466
+counter: 0
+sent packet at 10.553253
+counter: 0
+counter: 21
+sent packet at 11.553039
+counter: 0
+counter: 22
+sent packet at 12.552856
+counter: 0
+counter: 20
+sent packet at 13.552612
+counter: 0
+counter: 24
+sent packet at 14.552459
+counter: 0
+counter: 21
+sent packet at 15.552307
+counter: 0
+counter: 22
+sent packet at 16.552154
+counter: 0
+counter: 30
+sent packet at 17.551910
+counter: 0
+counter: 37
+sent packet at 18.551696
+counter: 0
+counter: 21
+sent packet at 19.551452
+counter: 0
+counter: 22
+sent packet at 20.551574
+counter: 0
+counter: 21
+sent packet at 21.551391
+counter: 0
+counter: 21
+sent packet at 22.551208
+counter: 0
+counter: 21
+sent packet at 23.550933
+counter: 0
+counter: 22
+sent packet at 24.550750
+counter: 0
+counter: 39
+sent packet at 25.550689
+counter: 0
+counter: 22
+sent packet at 26.550567
+counter: 0
+sent packet at 27.550140
+counter: 0
+counter: 21
+sent packet at 28.549987
+counter: 0
+counter: 22
+sent packet at 29.549743
+counter: 0
+counter: 23
+sent packet at 30.549652
+counter: 0
+counter: 21
+sent packet at 31.549407
+counter: 0
+sent packet at 32.549072
+counter: 0
+counter: 22
+sent packet at 33.548828
+counter: 0
+counter: 21
+sent packet at 34.548614
+counter: 0
+counter: 22
+sent packet at 35.548492
+counter: 0
+counter: 22
+sent packet at 36.548339
+counter: 0
+counter: 45
+sent packet at 37.548095
+counter: 0
+counter: 29
+sent packet at 38.547912
+counter: 0
+counter: 41
+sent packet at 39.547637
+counter: 0
+counter: 32
+sent packet at 40.548126
+counter: 0
+counter: 26
+sent packet at 41.547973
+counter: 0
+counter: 49
+sent packet at 42.547821
+counter: 0
+counter: 40
+sent packet at 43.548004
+counter: 0
+counter: 64
+sent packet at 44.551818
+counter: 0
+counter: 9999
+sent packet at 45.552185
+counter: 0
+sent packet at 46.551849
+counter: 0
+counter: 3
+counter: 9996
+sent packet at 47.552001
+counter: 0
+counter: 9994
+sent packet at 48.551940
+counter: 0
+sent packet at 49.551483
+counter: 0
+counter: 10000
+sent packet at 50.553192
+counter: 0
+sent packet at 51.552795
+counter: 0
+counter: 9
+sent packet at 52.552795
+counter: 0
+counter: 7
+sent packet at 53.552612
+counter: 0
+counter: 7
+sent packet at 54.552429
+counter: 0
+counter: 6
+counter: 9999
+sent packet at 55.553833
+counter: 0
+counter: 9994
+sent packet at 56.553924
+counter: 0
+sent packet at 57.553497
+counter: 0
+counter: 41
+sent packet at 58.553344
+counter: 0
+counter: 42
+sent packet at 59.553100
+counter: 0
+counter: 50
+sent packet at 0.556060
+counter: 0
+sent packet at 1.555725
+counter: 0
+sent packet at 2.557098
+counter: 0
+sent packet at 3.556823
+counter: 0
+counter: 6
+sent packet at 4.556762
+counter: 0
+counter: 9995
+sent packet at 5.557403
+counter: 0
+counter: 9993
+sent packet at 6.557312
+counter: 0
+counter: 9998
+sent packet at 7.557403
+counter: 0
+counter: 9990
+sent packet at 8.557098
+counter: 0
+counter: 9991
+sent packet at 9.556823
+counter: 0
+counter: 9990
+sent packet at 10.556640
+counter: 0
+sent packet at 11.556243
+counter: 0
+counter: 1
+sent packet at 12.556091
+counter: 0
+counter: 45
+sent packet at 13.555847
+counter: 0
+counter: 43
+sent packet at 14.555694
+counter: 0
+counter: 39
+sent packet at 15.555572
+counter: 0
+counter: 38
+sent packet at 16.555419
+counter: 0
+counter: 39
+sent packet at 17.555175
+counter: 0
+counter: 39
+sent packet at 18.554962
+counter: 0
+counter: 39
+sent packet at 19.555114
+counter: 0
+counter: 56
+sent packet at 20.558563
+counter: 0
+sent packet at 21.558197
+counter: 0
+counter: 2
+sent packet at 22.558044
+counter: 0
+counter: 1
+sent packet at 23.557800
+counter: 0
+counter: 5
+sent packet at 24.557617
+counter: 0
+counter: 2
+sent packet at 25.557525
+counter: 0
+counter: 1
+sent packet at 26.557403
+counter: 0
+counter: 1
+sent packet at 27.557159
+counter: 0
+counter: 44
+sent packet at 28.557006
+counter: 0
+counter: 39
+sent packet at 29.556762
+counter: 0
+counter: 40
+sent packet at 30.556640
+counter: 0
+counter: 38
+sent packet at 31.556396
+counter: 0
+counter: 46
+sent packet at 32.556243
+counter: 0
+counter: 40
+sent packet at 33.555999
+counter: 0
+counter: 46
+sent packet at 34.555816
+counter: 0
+counter: 39
+sent packet at 35.555664
+counter: 0
+counter: 38
+sent packet at 36.555511
+counter: 0
+counter: 39
+sent packet at 37.555267
+counter: 0
+counter: 42
+sent packet at 38.555084
+counter: 0
+counter: 39
+sent packet at 39.554809
+counter: 0
+counter: 39
+sent packet at 40.554779
+counter: 0
+sent packet at 41.554382
+counter: 0
+counter: 57
+sent packet at 42.557678
+counter: 0
+counter: 6
+sent packet at 43.557403
+counter: 0
+sent packet at 44.557067
+counter: 0
+counter: 6
+sent packet at 45.556945
+counter: 0
+counter: 6
+sent packet at 46.556762
+counter: 0
+counter: 7
+sent packet at 47.556518
+counter: 0
+counter: 7
+sent packet at 48.556488
+counter: 0
+counter: 6
+sent packet at 49.556243
+counter: 0
+counter: 6
+sent packet at 50.556182
+counter: 0
+counter: 6
+sent packet at 51.555969
+counter: 0
+sent packet at 52.555603
+counter: 0
+counter: 6
+sent packet at 53.555389
+counter: 0
+counter: 21
+sent packet at 54.555206
+counter: 0
+counter: 6
+sent packet at 55.555114
+counter: 0
+counter: 6
+sent packet at 56.554992
+counter: 0
+counter: 6
+sent packet at 57.554748
+counter: 0
+counter: 8
+sent packet at 58.554565
+counter: 0
+counter: 6
+sent packet at 59.554321
+counter: 0
+counter: 6
+sent packet at 0.554260
+counter: 0
+sent packet at 1.553833
+counter: 0
+counter: 11
+sent packet at 2.553680
+counter: 0
+counter: 11
+sent packet at 3.553436
+counter: 0
+counter: 23
+sent packet at 4.553283
+counter: 0
+sent packet at 5.552978
+counter: 0
+counter: 12
+sent packet at 6.552825
+counter: 0
+counter: 21
+sent packet at 7.552581
+counter: 0
+counter: 26
+sent packet at 8.552429
+counter: 0
+counter: 40
+sent packet at 9.552185
+counter: 0
+counter: 26
+sent packet at 10.552124
+counter: 0
+counter: 41
+sent packet at 11.551910
+counter: 0
+counter: 35
+sent packet at 12.551727
+counter: 0
+counter: 24
+sent packet at 13.551513
+counter: 0
+counter: 26
+sent packet at 14.551361
+counter: 0
+sent packet at 15.551055
+counter: 0
+counter: 27
+sent packet at 16.550903
+counter: 0
+counter: 27
+sent packet at 17.550659
+counter: 0
+counter: 175
+counter: 9919
+sent packet at 18.557220
+counter: 0
+sent packet at 19.556823
+counter: 0
+counter: 1
+sent packet at 20.556884
+counter: 0
+counter: 1
+sent packet at 21.556671
+counter: 0
+counter: 1
+sent packet at 22.556518
+counter: 0
+counter: 1
+sent packet at 23.557159
+counter: 0
+counter: 33
+sent packet at 24.557067
+counter: 0
+counter: 34
+sent packet at 25.557037
+counter: 0
+counter: 26
+sent packet at 26.556915
+counter: 0
+counter: 24
+sent packet at 27.556671
+counter: 0
+counter: 23
+sent packet at 28.556518
+counter: 0
+counter: 21
+sent packet at 29.556274
+counter: 0
+counter: 22
+sent packet at 30.556182
+counter: 0
+counter: 18
+sent packet at 31.556243
+counter: 0
+counter: 25
+sent packet at 32.556365
+counter: 0
+counter: 13
+sent packet at 33.556182
+counter: 0
+counter: 22
+sent packet at 34.555999
+counter: 0
+counter: 21
+sent packet at 35.555908
+counter: 0
+sent packet at 36.555572
+counter: 0
+sent packet at 37.555145
+counter: 0
+counter: 21
+sent packet at 38.554992
+counter: 0
+counter: 21
+sent packet at 39.554748
+counter: 0
+counter: 22
+sent packet at 40.554748
+counter: 0
+counter: 59
+sent packet at 41.558105
+counter: 0
+counter: 36
+sent packet at 42.557922
+counter: 0
+counter: 38
+sent packet at 43.557678
+counter: 0
+counter: 38
+sent packet at 44.557495
+counter: 0
+counter: 40
+sent packet at 45.557373
+counter: 0
+counter: 44
+sent packet at 46.557250
+counter: 0
+counter: 40
+sent packet at 47.557006
+counter: 0
+counter: 41
+sent packet at 48.556793
+counter: 0
+counter: 45
+sent packet at 49.556549
+counter: 0
+counter: 40
+sent packet at 50.556457
+counter: 0
+counter: 39
+sent packet at 51.556243
+counter: 0
+counter: 39
+sent packet at 52.556152
+counter: 0
+counter: 37
+sent packet at 53.556945
+counter: 0
+counter: 38
+sent packet at 54.556884
+counter: 0
+counter: 38
+sent packet at 55.556854
+counter: 0
+counter: 39
+sent packet at 56.556762
+counter: 0
+counter: 47
+sent packet at 57.556549
+counter: 0
+counter: 42
+sent packet at 58.556365
+counter: 0
+counter: 43
+sent packet at 59.556121
+counter: 0
+counter: 41
+sent packet at 0.556060
+counter: 0
+counter: 38
+sent packet at 1.555847
+counter: 0
+counter: 43
+sent packet at 2.555694
+counter: 0
+counter: 40
+sent packet at 3.555450
+counter: 0
+counter: 39
+sent packet at 4.555267
+counter: 0
+counter: 38
+sent packet at 5.555145
+counter: 0
+counter: 41
+sent packet at 6.554962
+counter: 0
+counter: 42
+sent packet at 7.554718
+counter: 0
+sent packet at 8.554382
+counter: 0
+counter: 41
+sent packet at 9.554138
+counter: 0
+counter: 40
+sent packet at 10.554046
+counter: 0
+counter: 38
+sent packet at 11.553833
+counter: 0
+counter: 49
+sent packet at 12.553649
+counter: 0
+counter: 40
+sent packet at 13.553436
+counter: 0
+counter: 38
+sent packet at 14.553253
+counter: 0
+counter: 36
+sent packet at 15.553131
+counter: 0
+counter: 35
+sent packet at 16.553131
+counter: 0
+counter: 37
+sent packet at 17.552917
+counter: 0
+counter: 39
+sent packet at 18.552734
+counter: 0
+sent packet at 19.552307
+counter: 0
+counter: 54
+sent packet at 20.555633
+counter: 0
+counter: 3
+sent packet at 21.555419
+counter: 0
+counter: 21
+sent packet at 22.555236
+counter: 0
+counter: 4
+sent packet at 23.554992
+counter: 0
+counter: 82
+sent packet at 24.559814
+counter: 0
+counter: 20
+sent packet at 25.559722
+counter: 0
+counter: 23
+sent packet at 26.559631
+counter: 0
+counter: 15
+sent packet at 27.559387
+counter: 0
+counter: 22
+sent packet at 28.559234
+counter: 0
+counter: 22
+sent packet at 29.558959
+counter: 0
+counter: 28
+sent packet at 30.558898
+counter: 0
+counter: 22
+sent packet at 31.558685
+counter: 0
+counter: 23
+sent packet at 32.558532
+counter: 0
+counter: 23
+sent packet at 33.558288
+counter: 0
+counter: 36
+sent packet at 34.558105
+counter: 0
+sent packet at 35.557800
+counter: 0
+counter: 37
+sent packet at 36.557647
+counter: 0
+counter: 37
+sent packet at 37.557403
+counter: 0
+counter: 38
+sent packet at 38.557220
+counter: 0
+counter: 37
+sent packet at 39.556976
+counter: 0
+counter: 38
+sent packet at 40.556945
+counter: 0
+counter: 37
+sent packet at 41.556762
+counter: 0
+counter: 51
+sent packet at 42.559661
+counter: 0
+counter: 6
+sent packet at 43.559417
+counter: 0
+counter: 7
+sent packet at 44.559265
+counter: 0
+counter: 6
+sent packet at 45.559448
+counter: 0
+counter: 2
+sent packet at 46.559417
+counter: 0
+counter: 1
+sent packet at 47.559204
+counter: 0
+counter: 2
+sent packet at 48.559051
+counter: 0
+counter: 6
+sent packet at 49.558807
+counter: 0
+counter: 1
+counter: 9994
+sent packet at 50.559967
+counter: 0
+counter: 9993
+sent packet at 51.559814
+counter: 0
+counter: 9993
+sent packet at 52.559692
+counter: 0
+counter: 9993
+sent packet at 53.559448
+counter: 0
+counter: 9995
+sent packet at 54.559356
+counter: 0
+counter: 9990
+sent packet at 55.559082
+counter: 0
+counter: 9992
+sent packet at 56.558990
+counter: 0
+counter: 9993
+sent packet at 57.558746
+counter: 0
+counter: 9992
+sent packet at 58.558593
+counter: 0
+counter: 9999
+sent packet at 59.558746
+counter: 0
+counter: 9987
+sent packet at 0.558410
+counter: 0
+counter: 9998
+sent packet at 1.558471
+counter: 0
+counter: 9994
+sent packet at 2.558410
+counter: 0
+counter: 9999
+sent packet at 3.558532
+counter: 0
+counter: 9984
+sent packet at 4.557891
+counter: 0
+counter: 9988
+sent packet at 5.557434
+counter: 0
+counter: 9992
+sent packet at 6.557281
+counter: 0
+sent packet at 7.556823
+counter: 0
+counter: 24
+sent packet at 8.556671
+counter: 0
+counter: 21
+sent packet at 9.556427
+counter: 0
+counter: 22
+sent packet at 10.556335
+counter: 0
+counter: 21
+sent packet at 11.556121
+counter: 0
+counter: 22
+sent packet at 12.555938
+counter: 0
+counter: 22
+sent packet at 13.555694
+counter: 0
+counter: 22
+sent packet at 14.555511
+counter: 0
+counter: 21
+sent packet at 15.555358
+counter: 0
+counter: 41
+sent packet at 16.555206
+counter: 0
+counter: 22
+sent packet at 17.554962
+counter: 0
+counter: 25
+sent packet at 18.554748
+counter: 0
+counter: 22
+sent packet at 19.554504
+counter: 0
+counter: 26
+sent packet at 20.554443
+counter: 0
+counter: 21
+sent packet at 21.554229
+counter: 0
+counter: 26
+sent packet at 22.554046
+counter: 0
+counter: 26
+sent packet at 23.553771
+counter: 0
+counter: 44
+sent packet at 24.553588
+counter: 0
+counter: 24
+sent packet at 25.553466
+counter: 0
+counter: 28
+sent packet at 26.553344
+counter: 0
+counter: 26
+sent packet at 27.553131
+counter: 0
+counter: 36
+sent packet at 28.552978
+counter: 0
+counter: 26
+sent packet at 29.552734
+counter: 0
+counter: 62
+counter: 9990
+sent packet at 30.556457
+counter: 0
+counter: 9992
+sent packet at 31.556213
+counter: 0
+counter: 9991
+sent packet at 32.555938
+counter: 0
+counter: 9994
+sent packet at 33.555816
+counter: 0
+counter: 9992
+sent packet at 34.555603
+counter: 0
+counter: 9989
+sent packet at 35.555603
+counter: 0
+counter: 9989
+sent packet at 36.555572
+counter: 0
+counter: 9990
+sent packet at 37.555175
+counter: 0
+counter: 9988
+sent packet at 38.555236
+counter: 0
+counter: 9990
+sent packet at 39.554840
+counter: 0
+counter: 9991
+sent packet at 40.554779
+counter: 0
+counter: 9990
+sent packet at 41.554534
+counter: 0
+counter: 10000
+sent packet at 42.554779
+counter: 0
+counter: 9988
+sent packet at 43.554229
+counter: 0
+counter: 9993
+sent packet at 44.554107
+counter: 0
+counter: 9989
+sent packet at 45.553802
+counter: 0
+counter: 9991
+sent packet at 46.553619
+counter: 0
+counter: 9993
+sent packet at 47.553405
+counter: 0
+counter: 9992
+sent packet at 48.553222
+counter: 0
+counter: 9994
+sent packet at 49.553070
+counter: 0
+sent packet at 50.552825
+counter: 0
+counter: 35
+sent packet at 51.552642
+counter: 0
+counter: 26
+sent packet at 52.552612
+counter: 0
+counter: 26
+sent packet at 53.552398
+counter: 0
+counter: 33
+sent packet at 54.552215
+counter: 0
+counter: 36
+sent packet at 55.552124
+counter: 0
+counter: 37
+sent packet at 56.552062
+counter: 0
+counter: 45
+sent packet at 57.551849
+counter: 0
+counter: 39
+sent packet at 58.551696
+counter: 0
+counter: 49
+sent packet at 59.551422
+counter: 0
+counter: 46
+sent packet at 0.551391
+counter: 0
+sent packet at 1.551025
+counter: 0
+counter: 209
+sent packet at 2.563446
+counter: 0
+sent packet at 3.563049
+counter: 0
+counter: 12
+sent packet at 4.562866
+counter: 0
+counter: 12
+sent packet at 5.562713
+counter: 0
+counter: 11
+sent packet at 6.562988
+counter: 0
+counter: 10
+sent packet at 7.562805
+counter: 0
+counter: 14
+sent packet at 8.562683
+counter: 0
+counter: 32
+sent packet at 9.562469
+counter: 0
+counter: 21
+sent packet at 10.562377
+counter: 0
+counter: 22
+sent packet at 11.562622
+counter: 0
+counter: 21
+sent packet at 12.562561
+counter: 0
+counter: 22
+sent packet at 13.562316
+counter: 0
+sent packet at 14.562011
+counter: 0
+counter: 23
+sent packet at 15.561920
+counter: 0
+counter: 21
+sent packet at 16.562713
+counter: 0
+counter: 22
+sent packet at 17.562500
+counter: 0
+counter: 7
+sent packet at 18.562347
+counter: 0
+counter: 10
+sent packet at 19.562103
+counter: 0
+counter: 7
+sent packet at 20.562072
+counter: 0
+counter: 6
+sent packet at 21.561859
+counter: 0
+counter: 6
+sent packet at 22.561676
+counter: 0
+counter: 5
+sent packet at 23.561431
+counter: 0
+counter: 7
+sent packet at 24.561248
+counter: 0
+sent packet at 25.560943
+counter: 0
+counter: 7
+sent packet at 26.560852
+counter: 0
+counter: 7
+sent packet at 27.560638
+counter: 0
+counter: 8
+sent packet at 28.560455
+counter: 0
+counter: 7
+sent packet at 29.560211
+counter: 0
+sent packet at 30.559936
+counter: 0
+counter: 8
+sent packet at 31.559722
+counter: 0
+counter: 10
+sent packet at 32.559570
+counter: 0
+sent packet at 33.559143
+counter: 0
+counter: 16
+sent packet at 34.558959
+counter: 0
+counter: 11
+sent packet at 35.558807
+counter: 0
+sent packet at 36.558502
+counter: 0
+counter: 52
+sent packet at 37.561462
+counter: 0
+counter: 20
+sent packet at 38.561279
+counter: 0
+counter: 21
+sent packet at 39.561035
+counter: 0
+counter: 22
+sent packet at 40.560974
+counter: 0
+counter: 34
+sent packet at 41.560821
+counter: 0
+counter: 20
+sent packet at 42.560638
+counter: 0
+sent packet at 43.560211
+counter: 0
+counter: 22
+sent packet at 44.560058
+counter: 0
+counter: 22
+sent packet at 45.559936
+counter: 0
+counter: 21
+sent packet at 46.559753
+counter: 0
+counter: 22
+sent packet at 47.559539
+counter: 0
+counter: 21
+sent packet at 48.559356
+counter: 0
+counter: 24
+sent packet at 49.559082
+counter: 0
+counter: 25
+sent packet at 50.559020
+counter: 0
+counter: 22
+sent packet at 51.558807
+counter: 0
+counter: 23
+sent packet at 52.558624
+counter: 0
+counter: 22
+sent packet at 53.558349
+counter: 0
+counter: 24
+sent packet at 54.558135
+counter: 0
+counter: 27
+sent packet at 55.557983
+counter: 0
+counter: 24
+sent packet at 56.557891
+counter: 0
+counter: 22
+sent packet at 57.557647
+counter: 0
+counter: 26
+sent packet at 58.557464
+counter: 0
+counter: 26
+sent packet at 59.557220
+counter: 0
+counter: 45
+sent packet at 0.557159
+counter: 0
+counter: 22
+sent packet at 1.557006
+counter: 0
+counter: 25
+sent packet at 2.556854
+counter: 0
+counter: 23
+sent packet at 3.556610
+counter: 0
+counter: 25
+sent packet at 4.556427
+counter: 0
+counter: 23
+sent packet at 5.556274
+counter: 0
+counter: 22
+sent packet at 6.556121
+counter: 0
+counter: 23
+sent packet at 7.555847
+counter: 0
+counter: 39
+sent packet at 8.555816
+counter: 0
+counter: 27
+sent packet at 9.555603
+counter: 0
+counter: 26
+sent packet at 10.555633
+counter: 0
+counter: 28
+sent packet at 11.555450
+counter: 0
+counter: 22
+sent packet at 12.555267
+counter: 0
+counter: 20
+sent packet at 13.555053
+counter: 0
+counter: 32
+sent packet at 14.554901
+counter: 0
+counter: 22
+sent packet at 15.554809
+counter: 0
+counter: 21
+sent packet at 16.554656
+counter: 0
+counter: 33
+sent packet at 17.554412
+counter: 0
+counter: 21
+sent packet at 18.554229
+counter: 0
+counter: 21
+sent packet at 19.553985
+counter: 0
+sent packet at 20.553771
+counter: 0
+counter: 26
+sent packet at 21.553558
+counter: 0
+counter: 33
+sent packet at 22.553405
+counter: 0
+counter: 36
+sent packet at 23.553192
+counter: 0
+counter: 37
+sent packet at 24.553009
+counter: 0
+counter: 47
+sent packet at 25.552886
+counter: 0
+counter: 46
+sent packet at 26.552795
+counter: 0
+counter: 49
+sent packet at 27.552551
+counter: 0
+counter: 44
+sent packet at 28.552429
+counter: 0
+counter: 40
+sent packet at 29.552185
+counter: 0
+counter: 39
+sent packet at 30.552124
+counter: 0
+counter: 39
+sent packet at 31.551879
+counter: 0
+counter: 41
+sent packet at 32.551727
+counter: 0
+counter: 37
+sent packet at 33.551513
+counter: 0
+counter: 55
+sent packet at 34.554656
+counter: 0
+counter: 3
+sent packet at 35.554504
+counter: 0
+counter: 3
+sent packet at 36.554351
+counter: 0
+counter: 3
+sent packet at 37.554107
+counter: 0
+sent packet at 38.554168
+counter: 0
+sent packet at 39.554107
+counter: 0
+counter: 1
+counter: 9998
+sent packet at 40.554931
+counter: 0
+sent packet at 41.554595
+counter: 0
+sent packet at 42.554290
+counter: 0
+counter: 43
+sent packet at 43.554931
+counter: 0
+counter: 38
+sent packet at 44.554870
+counter: 0
+counter: 37
+sent packet at 45.554779
+counter: 0
+counter: 37
+sent packet at 46.554656
+counter: 0
+counter: 55
+sent packet at 47.557708
+counter: 0
+counter: 6
+sent packet at 48.557556
+counter: 0
+sent packet at 49.557128
+counter: 0
+counter: 8
+sent packet at 50.557067
+counter: 0
+counter: 7
+sent packet at 51.556854
+counter: 0
+counter: 7
+sent packet at 52.556762
+counter: 0
+counter: 6
+sent packet at 53.556549
+counter: 0
+counter: 6
+sent packet at 54.556365
+counter: 0
+counter: 6
+sent packet at 55.556243
+counter: 0
+counter: 6
+sent packet at 56.556152
+counter: 0
+counter: 24
+sent packet at 57.555908
+counter: 0
+counter: 6
+sent packet at 58.555755
+counter: 0
+counter: 6
+sent packet at 59.555480
+counter: 0
+counter: 7
+sent packet at 0.555419
+counter: 0
+counter: 6
+sent packet at 1.555206
+counter: 0
+counter: 6
+sent packet at 2.555053
+counter: 0
+sent packet at 3.554626
+counter: 0
+counter: 8
+sent packet at 4.554443
+counter: 0
+counter: 8
+sent packet at 5.554290
+counter: 0
+counter: 9
+sent packet at 6.554138
+counter: 0
+counter: 8
+sent packet at 7.553863
+counter: 0
+counter: 24
+sent packet at 8.553741
+counter: 0
+counter: 8
+sent packet at 9.553497
+counter: 0
+counter: 8
+sent packet at 10.553405
+counter: 0
+counter: 7
+sent packet at 11.553222
+counter: 0
+counter: 9
+sent packet at 12.553039
+counter: 0
+counter: 8
+sent packet at 13.552795
+counter: 0
+counter: 8
+sent packet at 14.552642
+counter: 0
+counter: 11
+sent packet at 15.552520
+counter: 0
+counter: 9
+sent packet at 16.552368
+counter: 0
+counter: 26
+sent packet at 17.552124
+counter: 0
+counter: 50
+sent packet at 18.554931
+counter: 0
+sent packet at 19.554504
+counter: 0
+counter: 21
+sent packet at 20.554443
+counter: 0
+counter: 22
+sent packet at 21.554229
+counter: 0
+counter: 21
+sent packet at 22.554046
+counter: 0
+counter: 21
+sent packet at 23.553771
+counter: 0
+counter: 23
+sent packet at 24.553619
+counter: 0
+counter: 21
+sent packet at 25.553497
+counter: 0
+sent packet at 26.553222
+counter: 0
+counter: 23
+sent packet at 27.552978
+counter: 0
+counter: 26
+sent packet at 28.552825
+counter: 0
+counter: 36
+sent packet at 29.552612
+counter: 0
+counter: 25
+sent packet at 30.552520
+counter: 0
+counter: 35
+sent packet at 31.552307
+counter: 0
+sent packet at 32.551971
+counter: 0
+counter: 37
+sent packet at 33.551757
+counter: 0
+counter: 40
+sent packet at 34.551544
+counter: 0
+counter: 39
+sent packet at 35.551422
+counter: 0
+counter: 40
+sent packet at 36.551269
+counter: 0
+counter: 38
+sent packet at 37.551177
+counter: 0
+counter: 41
+sent packet at 38.551055
+counter: 0
+sent packet at 39.550628
+counter: 0
+counter: 44
+sent packet at 40.550598
+counter: 0
+counter: 40
+sent packet at 41.550445
+counter: 0
+counter: 50
+sent packet at 42.553283
+counter: 0
+counter: 7
+sent packet at 43.553070
+counter: 0
+counter: 9
+sent packet at 44.552917
+counter: 0
+counter: 7
+sent packet at 45.552764
+counter: 0
+counter: 16
+sent packet at 46.552642
+counter: 0
+counter: 14
+sent packet at 47.552429
+counter: 0
+counter: 48
+sent packet at 48.552246
+counter: 0
+counter: 20
+sent packet at 49.552001
+counter: 0
+counter: 13
+sent packet at 50.551940
+counter: 0
+counter: 22
+sent packet at 51.551727
+counter: 0
+counter: 25
+sent packet at 52.551574
+counter: 0
+counter: 22
+sent packet at 53.551361
+counter: 0
+counter: 26
+sent packet at 54.551177
+counter: 0
+counter: 33
+sent packet at 55.551025
+counter: 0
+counter: 23
+sent packet at 56.550933
+counter: 0
+counter: 30
+sent packet at 57.550750
+counter: 0
+counter: 26
+sent packet at 58.550567
+counter: 0
+counter: 42
+sent packet at 59.550323
+counter: 0
+counter: 27
+sent packet at 0.550262
+counter: 0
+counter: 25
+sent packet at 1.550048
+counter: 0
+counter: 28
+sent packet at 2.549896
+counter: 0
+counter: 29
+sent packet at 3.549652
+counter: 0
+counter: 27
+sent packet at 4.549468
+counter: 0
+counter: 28
+sent packet at 5.549346
+counter: 0
+counter: 45
+sent packet at 6.549194
+counter: 0
+counter: 27
+sent packet at 7.549316
+counter: 0
+counter: 21
+sent packet at 8.549255
+counter: 0
+counter: 21
+sent packet at 9.549041
+counter: 0
+counter: 21
+sent packet at 10.549011
+counter: 0
+counter: 22
+sent packet at 11.548828
+counter: 0
+counter: 43
+sent packet at 12.549560
+counter: 0
+counter: 11
+sent packet at 13.549377
+counter: 0
+counter: 10
+sent packet at 14.549224
+counter: 0
+counter: 8
+sent packet at 15.549133
+counter: 0
+counter: 7
+sent packet at 16.549285
+counter: 0
+counter: 6
+sent packet at 17.549377
+counter: 0
+counter: 2
+sent packet at 18.549255
+counter: 0
+counter: 1
+sent packet at 19.549041
+counter: 0
+counter: 2
+counter: 9995
+sent packet at 20.549865
+counter: 0
+sent packet at 21.549468
+counter: 0
+counter: 11
+counter: 9995
+sent packet at 22.549621
+counter: 0
+sent packet at 23.549194
+counter: 0
+counter: 32
+sent packet at 24.549011
+counter: 0
+counter: 37
+sent packet at 25.548889
+counter: 0
+sent packet at 26.548614
+counter: 0
+counter: 38
+sent packet at 27.548400
+counter: 0
+counter: 39
+sent packet at 28.548248
+counter: 0
+counter: 42
+sent packet at 29.547973
+counter: 0
+counter: 40
+sent packet at 30.547882
+counter: 0
+counter: 38
+sent packet at 31.547668
+counter: 0
+counter: 40
+sent packet at 32.547515
+counter: 0
+counter: 38
+sent packet at 33.547271
+counter: 0
+sent packet at 34.546875
+counter: 0
+counter: 38
+sent packet at 35.546722
+counter: 0
+counter: 39
+sent packet at 36.546569
+counter: 0
+counter: 39
+sent packet at 37.546325
+counter: 0
+counter: 43
+sent packet at 38.546112
+counter: 0
+counter: 43
+sent packet at 39.545867
+counter: 0
+counter: 48
+sent packet at 40.545837
+counter: 0
+counter: 39
+sent packet at 41.545654
+counter: 0
+counter: 40
+sent packet at 42.545471
+counter: 0
+counter: 38
+sent packet at 43.545227
+counter: 0
+counter: 38
+sent packet at 44.545074
+counter: 0
+counter: 36
+sent packet at 45.544952
+counter: 0
+counter: 40
+sent packet at 46.544799
+counter: 0
+counter: 39
+sent packet at 47.544555
+counter: 0
+counter: 38
+sent packet at 48.544372
+counter: 0
+counter: 40
+sent packet at 49.544128
+counter: 0
+counter: 41
+sent packet at 50.544036
+counter: 0
+counter: 39
+sent packet at 51.543823
+counter: 0
+counter: 40
+sent packet at 52.543762
+counter: 0
+counter: 40
+sent packet at 53.543548
+counter: 0
+counter: 44
+sent packet at 54.543365
+counter: 0
+counter: 38
+sent packet at 55.543212
+counter: 0
+counter: 41
+sent packet at 56.543151
+counter: 0
+counter: 85
+counter: 9987
+sent packet at 57.547912
+counter: 0
+counter: 9990
+sent packet at 58.547546
+counter: 0
+counter: 9992
+sent packet at 59.547302
+counter: 0
+counter: 9988
+sent packet at 0.547271
+counter: 0
+sent packet at 1.547119
+counter: 0
+counter: 9991
+sent packet at 2.546997
+counter: 0
+counter: 9990
+sent packet at 3.546722
+counter: 0
+counter: 9991
+sent packet at 4.546539
+counter: 0
+counter: 9991
+sent packet at 5.546356
+counter: 0
+sent packet at 6.546020
+counter: 0
+counter: 5
+sent packet at 7.545776
+counter: 0
+counter: 9994
+sent packet at 8.545776
+counter: 0
+counter: 9993
+sent packet at 9.545532
+counter: 0
+counter: 9992
+sent packet at 10.545471
+counter: 0
+counter: 9997
+sent packet at 11.545593
+counter: 0
+sent packet at 12.545257
+counter: 0
+counter: 7
+counter: 9995
+sent packet at 13.545288
+counter: 0
+sent packet at 14.544952
+counter: 0
+counter: 21
+sent packet at 15.544799
+counter: 0
+counter: 20
+sent packet at 16.544677
+counter: 0
+counter: 35
+sent packet at 17.544464
+counter: 0
+counter: 39
+sent packet at 18.544281
+counter: 0
+counter: 37
+sent packet at 19.544036
+counter: 0
+counter: 39
+sent packet at 20.544006
+counter: 0
+counter: 36
+sent packet at 21.543792
+counter: 0
+counter: 37
+sent packet at 22.543640
+counter: 0
+counter: 38
+sent packet at 23.543426
+counter: 0
+counter: 43
+sent packet at 24.543243
+counter: 0
+counter: 39
+sent packet at 25.543121
+counter: 0
+counter: 38
+sent packet at 26.543029
+counter: 0
+counter: 41
+sent packet at 27.542785
+counter: 0
+counter: 43
+sent packet at 28.542663
+counter: 0
+counter: 42
+sent packet at 29.542419
+counter: 0
+counter: 43
+sent packet at 30.542327
+counter: 0
+counter: 41
+sent packet at 31.542114
+counter: 0
+sent packet at 32.541809
+counter: 0
+sent packet at 33.541748
+counter: 0
+counter: 62
+sent packet at 34.545471
+counter: 0
+counter: 21
+sent packet at 35.545410
+counter: 0
+counter: 21
+sent packet at 36.545318
+counter: 0
+counter: 23
+sent packet at 37.545104
+counter: 0
+counter: 23
+sent packet at 38.545837
+counter: 0
+counter: 8
+sent packet at 39.545654
+counter: 0
+counter: 8
+sent packet at 40.545654
+counter: 0
+counter: 6
+sent packet at 41.545501
+counter: 0
+counter: 7
+sent packet at 42.545349
+counter: 0
+counter: 8
+sent packet at 43.545135
+counter: 0
+counter: 7
+sent packet at 44.544982
+counter: 0
+counter: 6
+sent packet at 45.544860
+counter: 0
+counter: 6
+sent packet at 46.544677
+counter: 0
+counter: 6
+sent packet at 47.544464
+counter: 0
+counter: 11
+sent packet at 48.544281
+counter: 0
+counter: 7
+sent packet at 49.544006
+counter: 0
+counter: 7
+sent packet at 50.543945
+counter: 0
+sent packet at 51.543548
+counter: 0
+counter: 9
+sent packet at 52.543365
+counter: 0
+counter: 8
+sent packet at 53.543121
+counter: 0
+counter: 9
+sent packet at 54.542907
+counter: 0
+counter: 9
+sent packet at 55.542755
+counter: 0
+counter: 10
+sent packet at 56.542663
+counter: 0
+counter: 8
+sent packet at 57.542419
+counter: 0
+counter: 9
+sent packet at 58.542266
+counter: 0
+counter: 9
+sent packet at 59.541992
+counter: 0
+counter: 9
+sent packet at 0.541931
+counter: 0
+counter: 7
+sent packet at 1.541717
+counter: 0
+counter: 9
+sent packet at 2.541564
+counter: 0
+counter: 8
+sent packet at 3.541320
+counter: 0
+counter: 11
+sent packet at 4.541137
+counter: 0
+sent packet at 5.540802
+counter: 0
+counter: 13
+sent packet at 6.540649
+counter: 0
+counter: 12
+sent packet at 7.540405
+counter: 0
+counter: 21
+sent packet at 8.540222
+counter: 0
+counter: 12
+sent packet at 9.539978
+counter: 0
+counter: 67
+sent packet at 10.543975
+counter: 0
+counter: 6
+sent packet at 11.543792
+counter: 0
+counter: 9
+sent packet at 12.543609
+counter: 0
+counter: 9
+sent packet at 13.543334
+counter: 0
+counter: 8
+sent packet at 14.543151
+counter: 0
+counter: 7
+sent packet at 15.543029
+counter: 0
+counter: 7
+sent packet at 16.542877
+counter: 0
+counter: 8
+sent packet at 17.542633
+counter: 0
+counter: 9
+sent packet at 18.542449
+counter: 0
+counter: 8
+sent packet at 19.542175
+counter: 0
+counter: 134
+sent packet at 20.550231
+counter: 0
+counter: 21
+sent packet at 21.550018
+counter: 0
+counter: 29
+sent packet at 22.549835
+counter: 0
+counter: 23
+sent packet at 23.549560
+counter: 0
+counter: 34
+sent packet at 24.549377
+counter: 0
+counter: 20
+sent packet at 25.549224
+counter: 0
+counter: 23
+sent packet at 26.549133
+counter: 0
+counter: 26
+sent packet at 27.548889
+counter: 0
+counter: 23
+sent packet at 28.548736
+counter: 0
+counter: 22
+sent packet at 29.548492
+counter: 0
+sent packet at 30.548217
+counter: 0
+counter: 21
+sent packet at 31.548126
+counter: 0
+counter: 26
+sent packet at 32.548004
+counter: 0
+counter: 22
+sent packet at 33.547760
+counter: 0
+counter: 21
+sent packet at 34.547576
+counter: 0
+counter: 21
+sent packet at 35.547424
+counter: 0
+counter: 21
+sent packet at 36.547332
+counter: 0
+counter: 22
+sent packet at 37.547088
+counter: 0
+counter: 24
+sent packet at 38.546905
+counter: 0
+counter: 21
+sent packet at 39.546661
+counter: 0
+counter: 22
+sent packet at 40.546600
+counter: 0
+counter: 42
+sent packet at 41.546447
+counter: 0
+counter: 37
+sent packet at 42.546264
+counter: 0
+counter: 39
+sent packet at 43.545989
+counter: 0
+counter: 39
+sent packet at 44.545837
+counter: 0
+counter: 38
+sent packet at 45.545715
+counter: 0
+counter: 37
+sent packet at 46.545593
+counter: 0
+counter: 42
+sent packet at 47.545379
+counter: 0
+counter: 64
+counter: 9997
+sent packet at 48.549957
+counter: 0
+counter: 9998
+sent packet at 49.550262
+counter: 0
+counter: 9988
+sent packet at 50.550018
+counter: 0
+counter: 9992
+sent packet at 51.549865
+counter: 0
+counter: 9990
+sent packet at 52.549621
+counter: 0
+sent packet at 53.549194
+counter: 0
+counter: 80
+counter: 9990
+sent packet at 54.553833
+counter: 0
+counter: 9991
+sent packet at 55.553619
+counter: 0
+counter: 9992
+sent packet at 56.553558
+counter: 0
+counter: 9992
+sent packet at 57.553344
+counter: 0
+counter: 9992
+sent packet at 58.553192
+counter: 0
+sent packet at 59.552764
+counter: 0
+counter: 10
+counter: 9991
+sent packet at 0.552795
+counter: 0
+sent packet at 1.552825
+counter: 0
+counter: 24
+sent packet at 2.554473
+counter: 0
+sent packet at 3.554199
+counter: 0
+counter: 6
+sent packet at 4.554168
+counter: 0
+counter: 6
+sent packet at 5.554992
+counter: 0
+sent packet at 6.554748
+counter: 0
+sent packet at 7.554351
+counter: 0
+counter: 39
+sent packet at 8.554290
+counter: 0
+counter: 37
+sent packet at 9.554077
+counter: 0
+counter: 38
+sent packet at 10.554046
+counter: 0
+counter: 38
+sent packet at 11.553924
+counter: 0
+counter: 39
+sent packet at 12.553802
+counter: 0
+counter: 49
+sent packet at 13.553588
+counter: 0
+counter: 39
+sent packet at 14.553436
+counter: 0
+counter: 37
+sent packet at 15.553344
+counter: 0
+counter: 42
+sent packet at 16.553222
+counter: 0
+counter: 38
+sent packet at 17.553009
+counter: 0
+counter: 39
+sent packet at 18.552795
+counter: 0
+counter: 39
+sent packet at 19.552581
+counter: 0
+counter: 40
+sent packet at 20.552520
+counter: 0
+counter: 37
+sent packet at 21.552337
+counter: 0
+counter: 39
+sent packet at 22.552154
+counter: 0
+counter: 39
+sent packet at 23.551940
+counter: 0
+counter: 39
+sent packet at 24.551757
+counter: 0
+counter: 38
+sent packet at 25.551605
+counter: 0
+sent packet at 26.551330
+counter: 0
+counter: 41
+sent packet at 27.551116
+counter: 0
+counter: 48
+sent packet at 28.550964
+counter: 0
+counter: 45
+sent packet at 29.550720
+counter: 0
+counter: 63
+sent packet at 30.554443
+counter: 0
+counter: 1
+sent packet at 31.554199
+counter: 0
+sent packet at 32.553863
+counter: 0
+counter: 19
+sent packet at 33.553619
+counter: 0
+counter: 7
+sent packet at 34.553436
+counter: 0
+counter: 7
+sent packet at 35.553283
+counter: 0
+counter: 7
+sent packet at 36.553161
+counter: 0
+counter: 9
+sent packet at 37.552917
+counter: 0
+counter: 10
+sent packet at 38.552734
+counter: 0
+counter: 8
+sent packet at 39.552490
+counter: 0
+counter: 9
+sent packet at 40.552429
+counter: 0
+counter: 7
+sent packet at 41.552215
+counter: 0
+counter: 9
+sent packet at 42.552032
+counter: 0
+counter: 8
+sent packet at 43.551788
+counter: 0
+counter: 8
+sent packet at 44.551635
+counter: 0
+counter: 10
+sent packet at 45.551483
+counter: 0
+counter: 8
+sent packet at 46.551330
+counter: 0
+counter: 67
+sent packet at 47.555206
+counter: 0
+counter: 38
+sent packet at 48.555023
+counter: 0
+counter: 27
+sent packet at 49.554779
+counter: 0
+counter: 27
+sent packet at 50.554687
+counter: 0
+counter: 27
+sent packet at 51.554443
+counter: 0
+counter: 28
+sent packet at 52.554260
+counter: 0
+counter: 28
+sent packet at 53.554046
+counter: 0
+counter: 28
+sent packet at 54.553802
+counter: 0
+counter: 26
+sent packet at 55.553680
+counter: 0
+counter: 27
+sent packet at 56.553558
+counter: 0
+counter: 26
+sent packet at 57.553466
+counter: 0
+sent packet at 58.553161
+counter: 0
+counter: 26
+sent packet at 59.552947
+counter: 0
+counter: 26
+sent packet at 0.552886
+counter: 0
+counter: 29
+sent packet at 1.552703
+counter: 0
+counter: 33
+sent packet at 2.552612
+counter: 0
+sent packet at 3.552185
+counter: 0
+counter: 39
+sent packet at 4.552001
+counter: 0
+counter: 44
+sent packet at 5.551879
+counter: 0
+counter: 43
+sent packet at 6.551727
+counter: 0
+counter: 42
+sent packet at 7.551544
+counter: 0
+counter: 40
+sent packet at 8.551391
+counter: 0
+sent packet at 9.550964
+counter: 0
+counter: 40
+sent packet at 10.550872
+counter: 0
+counter: 43
+sent packet at 11.550689
+counter: 0
+counter: 87
+counter: 9985
+sent packet at 12.555541
+counter: 0
+counter: 9991
+sent packet at 13.555206
+counter: 0
+sent packet at 14.554840
+counter: 0
+counter: 3
+counter: 9992
+sent packet at 15.554901
+counter: 0
+counter: 9993
+sent packet at 16.554748
+counter: 0
+counter: 9993
+sent packet at 17.554534
+counter: 0
+counter: 9992
+sent packet at 18.554382
+counter: 0
+sent packet at 19.553924
+counter: 0
+sent packet at 20.554870
+counter: 0
+sent packet at 21.554443
+counter: 0
+counter: 12
+sent packet at 22.554290
+counter: 0
+counter: 11
+sent packet at 23.554046
+counter: 0
+counter: 12
+sent packet at 24.553833
+counter: 0
+counter: 12
+sent packet at 25.553710
+counter: 0
+counter: 11
+sent packet at 26.553588
+counter: 0
+counter: 9
+sent packet at 27.553802
+counter: 0
+counter: 7
+sent packet at 28.553771
+counter: 0
+counter: 7
+sent packet at 29.553558
+counter: 0
+counter: 10
+sent packet at 30.553527
+counter: 0
+counter: 5
+sent packet at 31.553314
+counter: 0
+counter: 9997
+sent packet at 32.554809
+counter: 0
+sent packet at 33.554718
+counter: 0
+counter: 23
+sent packet at 34.554626
+counter: 0
+counter: 96
+counter: 9993
+sent packet at 35.561065
+counter: 0
+counter: 9991
+sent packet at 36.560913
+counter: 0
+counter: 9997
+sent packet at 37.560974
+counter: 0
+counter: 9990
+sent packet at 38.560668
+counter: 0
+counter: 9992
+sent packet at 39.560424
+counter: 0
+counter: 9991
+sent packet at 40.560302
+counter: 0
+counter: 9991
+sent packet at 41.560028
+counter: 0
+sent packet at 42.560272
+counter: 0
+counter: 9989
+sent packet at 43.559814
+counter: 0
+sent packet at 44.559478
+counter: 0
+sent packet at 45.559173
+counter: 0
+counter: 26
+sent packet at 46.559020
+counter: 0
+counter: 36
+sent packet at 47.558807
+counter: 0
+counter: 28
+sent packet at 48.558624
+counter: 0
+counter: 28
+sent packet at 49.558380
+counter: 0
+counter: 32
+sent packet at 50.558288
+counter: 0
+sent packet at 51.557891
+counter: 0
+counter: 40
+sent packet at 52.557861
+counter: 0
+counter: 40
+sent packet at 53.557617
+counter: 0
+counter: 38
+sent packet at 54.557434
+counter: 0
+counter: 38
+sent packet at 55.557281
+counter: 0
+counter: 37
+sent packet at 56.557189
+counter: 0
+counter: 37
+sent packet at 57.556976
+counter: 0
+counter: 40
+sent packet at 58.556823
+counter: 0
+counter: 39
+sent packet at 59.556579
+counter: 0
+counter: 43
+sent packet at 0.556488
+counter: 0
+counter: 41
+sent packet at 1.556274
+counter: 0
+counter: 47
+sent packet at 2.556121
+counter: 0
+counter: 40
+sent packet at 3.555877
+counter: 0
+counter: 43
+sent packet at 4.555664
+counter: 0
+counter: 39
+sent packet at 5.555511
+counter: 0
+counter: 39
+sent packet at 6.555358
+counter: 0
+counter: 38
+sent packet at 7.555114
+counter: 0
+counter: 43
+sent packet at 8.554931
+counter: 0
+sent packet at 9.554534
+counter: 0
+counter: 40
+sent packet at 10.554412
+counter: 0
+counter: 58
+sent packet at 11.557678
+counter: 0
+counter: 3
+sent packet at 12.557525
+counter: 0
+counter: 3
+sent packet at 13.557250
+counter: 0
+counter: 6
+sent packet at 14.557067
+counter: 0
+counter: 6
+sent packet at 15.556915
+counter: 0
+counter: 6
+sent packet at 16.556762
+counter: 0
+counter: 3
+sent packet at 17.556518
+counter: 0
+counter: 23
+sent packet at 18.556304
+counter: 0
+counter: 40
+sent packet at 19.556060
+counter: 0
+sent packet at 20.555816
+counter: 0
+counter: 42
+sent packet at 21.555603
+counter: 0
+counter: 43
+sent packet at 22.555419
+counter: 0
+counter: 40
+sent packet at 23.555145
+counter: 0
+counter: 39
+sent packet at 24.554962
+counter: 0
+counter: 39
+sent packet at 25.554931
+counter: 0
+sent packet at 26.554656
+counter: 0
+counter: 41
+sent packet at 27.554473
+counter: 0
+counter: 41
+sent packet at 28.554351
+counter: 0
+counter: 40
+sent packet at 29.554077
+counter: 0
+counter: 39
+sent packet at 30.554046
+counter: 0
+counter: 37
+sent packet at 31.553802
+counter: 0
+counter: 40
+sent packet at 32.553680
+counter: 0
+counter: 39
+sent packet at 33.553466
+counter: 0
+counter: 46
+sent packet at 34.553253
+counter: 0
+counter: 41
+sent packet at 35.553161
+counter: 0
+counter: 53
+sent packet at 36.556213
+counter: 0
+counter: 7
+sent packet at 37.555969
+counter: 0
+counter: 11
+sent packet at 38.555786
+counter: 0
+counter: 8
+sent packet at 39.555572
+counter: 0
+counter: 8
+sent packet at 40.555511
+counter: 0
+counter: 7
+sent packet at 41.555297
+counter: 0
+counter: 7
+sent packet at 42.555145
+counter: 0
+counter: 7
+sent packet at 43.554901
+counter: 0
+counter: 8
+sent packet at 44.554748
+counter: 0
+counter: 7
+sent packet at 45.554626
+counter: 0
+counter: 6
+sent packet at 46.554473
+counter: 0
+counter: 6
+sent packet at 47.554229
+counter: 0
+counter: 8
+sent packet at 48.554046
+counter: 0
+counter: 7
+sent packet at 49.553771
+counter: 0
+counter: 8
+sent packet at 50.553741
+counter: 0
+counter: 5
+sent packet at 51.553527
+counter: 0
+counter: 5
+sent packet at 52.553344
+counter: 0
+sent packet at 53.552947
+counter: 0
+counter: 9
+sent packet at 54.552734
+counter: 0
+counter: 26
+sent packet at 55.553009
+counter: 0
+counter: 6
+sent packet at 56.553009
+counter: 0
+counter: 3
+sent packet at 57.552856
+counter: 0
+counter: 3
+sent packet at 58.552703
+counter: 0
+counter: 2
+sent packet at 59.552459
+counter: 0
+counter: 9997
+sent packet at 0.553649
+counter: 0
+counter: 9993
+sent packet at 1.553466
+counter: 0
+counter: 9997
+sent packet at 2.553649
+counter: 0
+counter: 9991
+sent packet at 3.553314
+counter: 0
+counter: 9991
+sent packet at 4.553070
+counter: 0
+counter: 9992
+sent packet at 5.552947
+counter: 0
+counter: 9990
+sent packet at 6.552612
+counter: 0
+sent packet at 7.552185
+counter: 0
+counter: 7
+counter: 9994
+sent packet at 8.552307
+counter: 0
+counter: 9993
+sent packet at 9.552062
+counter: 0
+counter: 9993
+sent packet at 10.552001
+counter: 0
+counter: 9992
+sent packet at 11.551788
+counter: 0
+counter: 9994
+sent packet at 12.551727
+counter: 0
+counter: 9993
+sent packet at 13.551483
+counter: 0
+counter: 9992
+sent packet at 14.551300
+counter: 0
+sent packet at 15.550872
+counter: 0
+counter: 9993
+sent packet at 16.550842
+counter: 0
+counter: 9994
+sent packet at 17.550689
+counter: 0
+counter: 9993
+sent packet at 18.550506
+counter: 0
+counter: 9993
+sent packet at 19.550262
+counter: 0
+counter: 9993
+sent packet at 20.550109
+counter: 0
+sent packet at 21.549804
+counter: 0
+counter: 9999
+sent packet at 22.550048
+counter: 0
+sent packet at 23.549621
+counter: 0
+counter: 6
+sent packet at 24.549438
+counter: 0
+counter: 31
+sent packet at 25.549163
+counter: 0
+counter: 37
+sent packet at 26.549102
+counter: 0
+sent packet at 27.548736
+counter: 0
+counter: 39
+sent packet at 28.548583
+counter: 0
+counter: 42
+sent packet at 29.548339
+counter: 0
+counter: 40
+sent packet at 30.548126
+counter: 0
+counter: 38
+sent packet at 31.547973
+counter: 0
+counter: 40
+sent packet at 32.547851
+counter: 0
+counter: 38
+sent packet at 33.547607
+counter: 0
+counter: 39
+sent packet at 34.547393
+counter: 0
+counter: 38
+sent packet at 35.547149
+counter: 0
+counter: 39
+sent packet at 36.547088
+counter: 0
+counter: 37
+sent packet at 37.546875
+counter: 0
+counter: 39
+sent packet at 38.546691
+counter: 0
+counter: 38
+sent packet at 39.546417
+counter: 0
+counter: 39
+sent packet at 40.546234
+counter: 0
+counter: 40
+sent packet at 41.546081
+counter: 0
+counter: 39
+sent packet at 42.545959
+counter: 0
+counter: 39
+sent packet at 43.545715
+counter: 0
+counter: 39
+sent packet at 44.545593
+counter: 0
+counter: 40
+sent packet at 45.545349
+counter: 0
+counter: 53
+sent packet at 46.548492
+counter: 0
+counter: 3
+sent packet at 47.548248
+counter: 0
+counter: 6
+sent packet at 48.548034
+counter: 0
+counter: 7
+sent packet at 49.547790
+counter: 0
+counter: 7
+sent packet at 50.547607
+counter: 0
+sent packet at 51.547302
+counter: 0
+counter: 8
+sent packet at 52.547363
+counter: 0
+counter: 7
+sent packet at 53.547180
+counter: 0
+counter: 11
+sent packet at 54.546997
+counter: 0
+counter: 11
+sent packet at 55.546752
+counter: 0
+counter: 12
+sent packet at 56.546752
+counter: 0
+counter: 10
+sent packet at 57.546600
+counter: 0
+counter: 34
+sent packet at 58.546447
+counter: 0
+sent packet at 59.545989
+counter: 0
+counter: 41
+sent packet at 0.545837
+counter: 0
+counter: 43
+sent packet at 1.545715
+counter: 0
+counter: 43
+sent packet at 2.545593
+counter: 0
+counter: 41
+sent packet at 3.545379
+counter: 0
+counter: 49
+sent packet at 4.545196
+counter: 0
+counter: 41
+sent packet at 5.544952
+counter: 0
+counter: 39
+sent packet at 6.544891
+counter: 0
+counter: 39
+sent packet at 7.544677
+counter: 0
+counter: 40
+sent packet at 8.544555
+counter: 0
+counter: 39
+sent packet at 9.544311
+counter: 0
+sent packet at 10.543945
+counter: 0
+counter: 38
+sent packet at 11.543823
+counter: 0
+counter: 38
+sent packet at 12.543731
+counter: 0
+counter: 38
+sent packet at 13.543487
+counter: 0
+counter: 38
+sent packet at 14.543334
+counter: 0
+counter: 36
+sent packet at 15.543090
+counter: 0
+counter: 38
+sent packet at 16.543029
+counter: 0
+counter: 37
+sent packet at 17.542816
+counter: 0
+counter: 53
+sent packet at 18.545837
+counter: 0
+counter: 5
+sent packet at 19.545593
+counter: 0
+counter: 18
+sent packet at 20.545440
+counter: 0
+counter: 6
+sent packet at 21.545318
+counter: 0
+counter: 6
+sent packet at 22.545532
+counter: 0
+counter: 1
+sent packet at 23.545379
+counter: 0
+counter: 3
+sent packet at 24.545257
+counter: 0
+counter: 1
+sent packet at 25.545013
+counter: 0
+sent packet at 26.544830
+counter: 0
+counter: 1
+counter: 9996
+sent packet at 27.545928
+counter: 0
+counter: 9993
+sent packet at 28.545867
+counter: 0
+sent packet at 29.545440
+counter: 0
+counter: 19
+sent packet at 30.545288
+counter: 0
+counter: 21
+sent packet at 31.545166
+counter: 0
+counter: 21
+sent packet at 32.545074
+counter: 0
+counter: 20
+sent packet at 33.544830
+counter: 0
+counter: 21
+sent packet at 34.544647
+counter: 0
+counter: 18
+sent packet at 35.544433
+counter: 0
+counter: 21
+sent packet at 36.544372
+counter: 0
+counter: 23
+sent packet at 37.544158
+counter: 0
+counter: 32
+sent packet at 38.544006
+counter: 0
+counter: 23
+sent packet at 39.543762
+counter: 0
+counter: 22
+sent packet at 40.543579
+counter: 0
+counter: 23
+sent packet at 41.543457
+counter: 0
+sent packet at 42.543151
+counter: 0
+counter: 22
+sent packet at 43.542907
+counter: 0
+counter: 35
+sent packet at 44.542755
+counter: 0
+counter: 50
+sent packet at 45.545532
+counter: 0
+counter: 21
+sent packet at 46.545471
+counter: 0
+counter: 20
+sent packet at 47.545227
+counter: 0
+counter: 20
+sent packet at 48.545043
+counter: 0
+counter: 21
+sent packet at 49.544799
+counter: 0
+counter: 21
+sent packet at 50.544616
+counter: 0
+counter: 24
+sent packet at 51.544494
+counter: 0
+counter: 21
+sent packet at 52.544342
+counter: 0
+counter: 21
+sent packet at 53.544097
+counter: 0
+counter: 21
+sent packet at 54.543914
+counter: 0
+counter: 24
+sent packet at 55.543640
+counter: 0
+counter: 21
+sent packet at 56.543609
+counter: 0
+counter: 21
+sent packet at 57.543426
+counter: 0
+sent packet at 58.543060
+counter: 0
+sent packet at 59.542633
+counter: 0
+counter: 27
+sent packet at 0.542449
+counter: 0
+counter: 26
+sent packet at 1.542388
+counter: 0
+counter: 26
+sent packet at 2.542266
+counter: 0
+counter: 23
+sent packet at 3.542022
+counter: 0
+counter: 23
+sent packet at 4.541839
+counter: 0
+counter: 23
+sent packet at 5.541595
+counter: 0
+counter: 26
+sent packet at 6.541503
+counter: 0
+counter: 21
+sent packet at 7.541290
+counter: 0
+counter: 26
+sent packet at 8.541107
+counter: 0
+counter: 27
+sent packet at 9.540863
+counter: 0
+counter: 29
+sent packet at 10.540649
+counter: 0
+counter: 30
+sent packet at 11.540496
+counter: 0
+sent packet at 12.540252
+counter: 0
+counter: 29
+sent packet at 13.540008
+counter: 0
+counter: 29
+sent packet at 14.539825
+counter: 0
+counter: 28
+sent packet at 15.539581
+counter: 0
+counter: 39
+sent packet at 16.539520
+counter: 0
+counter: 27
+sent packet at 17.539276
+counter: 0
+counter: 36
+sent packet at 18.539062
+counter: 0
+counter: 40
+sent packet at 19.538818
+counter: 0
+counter: 44
+sent packet at 20.538787
+counter: 0
+sent packet at 21.538543
+counter: 0
+counter: 39
+sent packet at 22.538360
+counter: 0
+counter: 43
+sent packet at 23.538116
+counter: 0
+counter: 40
+sent packet at 24.537963
+counter: 0
+counter: 38
+sent packet at 25.537750
+counter: 0
+counter: 40
+sent packet at 26.537719
+counter: 0
+counter: 37
+sent packet at 27.537536
+counter: 0
+sent packet at 28.537231
+counter: 0
+counter: 40
+sent packet at 29.536987
+counter: 0
+counter: 41
+sent packet at 30.536834
+counter: 0
+counter: 40
+sent packet at 31.536682
+counter: 0
+counter: 38
+sent packet at 32.536560
+counter: 0
+counter: 42
+sent packet at 33.536346
+counter: 0
+counter: 40
+sent packet at 34.536163
+counter: 0
+counter: 49
+sent packet at 35.535949
+counter: 0
+counter: 43
+sent packet at 36.535888
+counter: 0
+counter: 38
+sent packet at 37.535675
+counter: 0
+counter: 39
+sent packet at 38.535491
+counter: 0
+sent packet at 39.535064
+counter: 0
+counter: 39
+sent packet at 40.534942
+counter: 0
+sent packet at 41.534637
+counter: 0
+counter: 39
+sent packet at 42.534515
+counter: 0
+counter: 64
+sent packet at 43.538177
+counter: 0
+counter: 10
+sent packet at 44.538024
+counter: 0
+counter: 15
+sent packet at 45.537811
+counter: 0
+sent packet at 46.537567
+counter: 0
+counter: 1
+sent packet at 47.537353
+counter: 0
+counter: 2
+sent packet at 48.537170
+counter: 0
+counter: 5
+sent packet at 49.536926
+counter: 0
+sent packet at 50.536956
+counter: 0
+counter: 1
+sent packet at 51.536926
+counter: 0
+counter: 1
+sent packet at 52.536926
+counter: 0
+counter: 9998
+sent packet at 53.537628
+counter: 0
+counter: 9994
+sent packet at 54.537597
+counter: 0
+counter: 9986
+sent packet at 55.537872
+counter: 0
+counter: 9988
+sent packet at 56.537658
+counter: 0
+counter: 9990
+sent packet at 57.537261
+counter: 0
+counter: 9991
+sent packet at 58.537048
+counter: 0
+sent packet at 59.536590
+counter: 0
+counter: 9996
+sent packet at 0.536651
+counter: 0
+sent packet at 1.536346
+counter: 0
+counter: 9994
+sent packet at 2.536346
+counter: 0
+counter: 9993
+sent packet at 3.536071
+counter: 0
+counter: 9994
+sent packet at 4.536010
+counter: 0
+counter: 9992
+sent packet at 5.535736
+counter: 0
+sent packet at 6.535491
+counter: 0
+sent packet at 7.535675
+counter: 0
+counter: 44
+sent packet at 8.535522
+counter: 0
+counter: 53
+sent packet at 9.538482
+counter: 0
+counter: 6
+sent packet at 10.538269
+counter: 0
+counter: 6
+sent packet at 11.538146
+counter: 0
+counter: 7
+sent packet at 12.538024
+counter: 0
+counter: 7
+sent packet at 13.537780
+counter: 0
+sent packet at 14.537445
+counter: 0
+counter: 10
+sent packet at 15.537200
+counter: 0
+counter: 24
+sent packet at 16.537139
+counter: 0
+counter: 12
+sent packet at 17.536895
+counter: 0
+counter: 12
+sent packet at 18.536712
+counter: 0
+counter: 11
+sent packet at 19.536468
+counter: 0
+counter: 13
+sent packet at 20.536285
+counter: 0
+counter: 12
+sent packet at 21.536163
+counter: 0
+counter: 11
+sent packet at 22.536010
+counter: 0
+counter: 12
+sent packet at 23.535766
+counter: 0
+counter: 22
+sent packet at 24.535552
+counter: 0
+sent packet at 25.535125
+counter: 0
+counter: 18
+sent packet at 26.535095
+counter: 0
+counter: 12
+sent packet at 27.534912
+counter: 0
+counter: 21
+sent packet at 28.534759
+counter: 0
+counter: 19
+sent packet at 29.534515
+counter: 0
+counter: 22
+sent packet at 30.534301
+counter: 0
+counter: 22
+sent packet at 31.534149
+counter: 0
+counter: 26
+sent packet at 32.533996
+counter: 0
+counter: 21
+sent packet at 33.533782
+counter: 0
+counter: 38
+sent packet at 34.533569
+counter: 0
+counter: 21
+sent packet at 35.533325
+counter: 0
+counter: 23
+sent packet at 36.533264
+counter: 0
+counter: 21
+sent packet at 37.533020
+counter: 0
+counter: 21
+sent packet at 38.532836
+counter: 0
+counter: 22
+sent packet at 39.532592
+counter: 0
+sent packet at 40.532226
+counter: 0
+counter: 40
+sent packet at 41.532104
+counter: 0
+counter: 22
+sent packet at 42.531982
+counter: 0
+counter: 36
+sent packet at 43.531738
+counter: 0
+counter: 26
+sent packet at 44.531555
+counter: 0
+counter: 22
+sent packet at 45.531311
+counter: 0
+counter: 25
+sent packet at 46.531250
+counter: 0
+counter: 21
+sent packet at 47.531005
+counter: 0
+counter: 37
+sent packet at 48.530822
+counter: 0
+counter: 39
+sent packet at 49.530700
+counter: 0
+counter: 37
+sent packet at 50.530517
+counter: 0
+counter: 48
+sent packet at 51.530426
+counter: 0
+counter: 39
+sent packet at 52.530273
+counter: 0
+counter: 42
+sent packet at 53.530059
+counter: 0
+counter: 45
+sent packet at 54.529876
+counter: 0
+counter: 39
+sent packet at 55.529663
+counter: 0
+counter: 40
+sent packet at 56.529632
+counter: 0
+counter: 38
+sent packet at 57.529449
+counter: 0
+counter: 51
+sent packet at 58.532409
+counter: 0
+counter: 6
+sent packet at 59.532165
+counter: 0
+counter: 10
+sent packet at 0.532012
+counter: 0
+counter: 7
+sent packet at 1.531860
+counter: 0
+counter: 6
+sent packet at 2.531738
+counter: 0
+counter: 6
+sent packet at 3.531494
+counter: 0
+counter: 7
+sent packet at 4.531341
+counter: 0
+sent packet at 5.530914
+counter: 0
+counter: 8
+sent packet at 6.530853
+counter: 0
+counter: 6
+sent packet at 7.530609
+counter: 0
+counter: 19
+sent packet at 8.530426
+counter: 0
+counter: 8
+sent packet at 9.530212
+counter: 0
+counter: 21
+sent packet at 10.530029
+counter: 0
+counter: 8
+sent packet at 11.529876
+counter: 0
+counter: 8
+sent packet at 12.529785
+counter: 0
+counter: 9
+sent packet at 13.529541
+counter: 0
+counter: 9
+sent packet at 14.529388
+counter: 0
+counter: 8
+sent packet at 15.529144
+counter: 0
+counter: 11
+sent packet at 16.529113
+counter: 0
+counter: 32
+sent packet at 17.528869
+counter: 0
+counter: 11
+sent packet at 18.528686
+counter: 0
+sent packet at 19.528625
+counter: 0
+counter: 7
+sent packet at 20.528594
+counter: 0
+sent packet at 21.528350
+counter: 0
+counter: 6
+sent packet at 22.528198
+counter: 0
+counter: 7
+sent packet at 23.527954
+counter: 0
+counter: 8
+sent packet at 24.529296
+counter: 0
+counter: 9997
+sent packet at 25.529357
+counter: 0
+sent packet at 26.529174
+counter: 0
+counter: 8
+sent packet at 27.528991
+counter: 0
+counter: 30
+sent packet at 28.528869
+counter: 0
+counter: 26
+sent packet at 29.528656
+counter: 0
+counter: 26
+sent packet at 30.528472
+counter: 0
+counter: 26
+sent packet at 31.528350
+counter: 0
+sent packet at 32.528045
+counter: 0
+counter: 30
+sent packet at 33.527801
+counter: 0
+counter: 32
+sent packet at 34.527618
+counter: 0
+counter: 27
+sent packet at 35.527343
+counter: 0
+sent packet at 36.527130
+counter: 0
+counter: 35
+sent packet at 37.526885
+counter: 0
+counter: 39
+sent packet at 38.526733
+counter: 0
+counter: 39
+sent packet at 39.526489
+counter: 0
+counter: 39
+sent packet at 40.526306
+counter: 0
+counter: 38
+sent packet at 41.526184
+counter: 0
+counter: 38
+sent packet at 42.526062
+counter: 0
+counter: 39
+sent packet at 43.525817
+counter: 0
+counter: 46
+sent packet at 44.525665
+counter: 0
+counter: 44
+sent packet at 45.525421
+counter: 0
+counter: 39
+sent packet at 46.525360
+counter: 0
+counter: 38
+sent packet at 47.525115
+counter: 0
+counter: 39
+sent packet at 48.524932
+counter: 0
+sent packet at 49.524505
+counter: 0
+counter: 41
+sent packet at 50.524322
+counter: 0
+counter: 43
+sent packet at 51.524169
+counter: 0
+sent packet at 52.523925
+counter: 0
+counter: 39
+sent packet at 53.523712
+counter: 0
+counter: 39
+sent packet at 54.523529
+counter: 0
+counter: 41
+sent packet at 55.523284
+counter: 0
+counter: 39
+sent packet at 56.523254
+counter: 0
+counter: 35
+sent packet at 57.523071
+counter: 0
+counter: 38
+sent packet at 58.522918
+counter: 0
+counter: 48
+sent packet at 59.522644
+counter: 0
+counter: 38
+sent packet at 0.522460
+counter: 0
+counter: 57
+sent packet at 1.525848
+counter: 0
+counter: 1
+sent packet at 2.525695
+counter: 0
+counter: 1
+sent packet at 3.525451
+counter: 0
+counter: 3
+sent packet at 4.525299
+counter: 0
+counter: 1
+sent packet at 5.525024
+counter: 0
+counter: 2
+sent packet at 6.524963
+counter: 0
+counter: 1
+sent packet at 7.524719
+counter: 0
+counter: 29
+sent packet at 8.524566
+counter: 0
+counter: 6
+sent packet at 9.524322
+counter: 0
+counter: 7
+sent packet at 10.524108
+counter: 0
+counter: 7
+sent packet at 11.523956
+counter: 0
+counter: 7
+sent packet at 12.523834
+counter: 0
+counter: 7
+sent packet at 13.523590
+counter: 0
+counter: 21
+sent packet at 14.523406
+counter: 0
+counter: 22
+sent packet at 15.523162
+counter: 0
+counter: 37
+sent packet at 16.523101
+counter: 0
+counter: 21
+sent packet at 17.523010
+counter: 0
+counter: 25
+sent packet at 18.522827
+counter: 0
+counter: 21
+sent packet at 19.522583
+counter: 0
+counter: 22
+sent packet at 20.522460
+counter: 0
+counter: 21
+sent packet at 21.522369
+counter: 0
+counter: 22
+sent packet at 22.522247
+counter: 0
+counter: 22
+sent packet at 23.522033
+counter: 0
+counter: 21
+sent packet at 24.521850
+counter: 0
+counter: 41
+sent packet at 25.521606
+counter: 0
+counter: 20
+sent packet at 26.521575
+counter: 0
+sent packet at 27.521209
+counter: 0
+counter: 22
+sent packet at 28.521118
+counter: 0
+counter: 21
+sent packet at 29.520874
+counter: 0
+counter: 20
+sent packet at 30.520690
+counter: 0
+counter: 23
+sent packet at 31.520568
+counter: 0
+counter: 21
+sent packet at 32.520446
+counter: 0
+sent packet at 33.520050
+counter: 0
+sent packet at 34.519653
+counter: 0
+sent packet at 35.519226
+counter: 0
+counter: 44
+sent packet at 36.519165
+counter: 0
+counter: 40
+sent packet at 37.518951
+counter: 0
+counter: 40
+sent packet at 38.518798
+counter: 0
+sent packet at 39.518371
+counter: 0
+sent packet at 40.518035
+counter: 0
+counter: 39
+sent packet at 41.517883
+counter: 0
+counter: 57
+sent packet at 42.521270
+counter: 0
+counter: 2
+sent packet at 43.521057
+counter: 0
+counter: 2
+sent packet at 44.520904
+counter: 0
+counter: 2
+sent packet at 45.520629
+counter: 0
+counter: 2
+sent packet at 46.520568
+counter: 0
+counter: 1
+sent packet at 47.520690
+counter: 0
+counter: 9996
+sent packet at 48.521423
+counter: 0
+sent packet at 49.521026
+counter: 0
+sent packet at 50.520690
+counter: 0
+counter: 28
+sent packet at 51.520599
+counter: 0
+counter: 29
+sent packet at 52.521362
+counter: 0
+sent packet at 53.520965
+counter: 0
+counter: 21
+sent packet at 54.520812
+counter: 0
+counter: 22
+sent packet at 55.520568
+counter: 0
+counter: 20
+sent packet at 56.520568
+counter: 0
+counter: 21
+sent packet at 57.520385
+counter: 0
+counter: 21
+sent packet at 58.520263
+counter: 0
+counter: 26
+sent packet at 59.520050
+counter: 0
+counter: 21
+sent packet at 0.519866
+counter: 0
+counter: 21
+sent packet at 1.519714
+counter: 0
+counter: 21
+sent packet at 2.519561
+counter: 0
+sent packet at 3.519134
+counter: 0
+counter: 26
+sent packet at 4.518951
+counter: 0
+counter: 24
+sent packet at 5.518707
+counter: 0
+counter: 26
+sent packet at 6.518615
+counter: 0
+counter: 25
+sent packet at 7.518371
+counter: 0
+counter: 27
+sent packet at 8.518218
+counter: 0
+counter: 32
+sent packet at 9.517974
+counter: 0
+sent packet at 10.517578
+counter: 0
+counter: 27
+sent packet at 11.517456
+counter: 0
+counter: 27
+sent packet at 12.517303
+counter: 0
+counter: 75
+counter: 9984
+sent packet at 13.521240
+counter: 0
+counter: 9988
+sent packet at 14.520782
+counter: 0
+sent packet at 15.520355
+counter: 0
+counter: 3
+counter: 9990
+sent packet at 16.520294
+counter: 0
+counter: 9993
+sent packet at 17.520080
+counter: 0
+counter: 9993
+sent packet at 18.519866
+counter: 0
+counter: 9994
+sent packet at 19.519714
+counter: 0
+counter: 9992
+sent packet at 20.519561
+counter: 0
+counter: 9992
+sent packet at 21.519439
+counter: 0
+sent packet at 22.519073
+counter: 0
+counter: 26
+sent packet at 23.518829
+counter: 0
+counter: 36
+sent packet at 24.518615
+counter: 0
+counter: 26
+sent packet at 25.518371
+counter: 0
+counter: 27
+sent packet at 26.518310
+counter: 0
+counter: 30
+sent packet at 27.518066
+counter: 0
+counter: 24
+sent packet at 28.517944
+counter: 0
+counter: 26
+sent packet at 29.517700
+counter: 0
+counter: 27
+sent packet at 30.517486
+counter: 0
+counter: 42
+sent packet at 31.517333
+counter: 0
+counter: 34
+sent packet at 32.517181
+counter: 0
+counter: 27
+sent packet at 33.516937
+counter: 0
+counter: 34
+sent packet at 34.516754
+counter: 0
+counter: 38
+sent packet at 35.516510
+counter: 0
+counter: 40
+sent packet at 36.516448
+counter: 0
+counter: 37
+sent packet at 37.516235
+counter: 0
+counter: 39
+sent packet at 38.516052
+counter: 0
+sent packet at 39.515625
+counter: 0
+counter: 42
+sent packet at 40.515441
+counter: 0
+counter: 44
+sent packet at 41.515289
+counter: 0
+counter: 40
+sent packet at 42.515136
+counter: 0
+counter: 45
+sent packet at 43.514923
+counter: 0
+counter: 44
+sent packet at 44.514770
+counter: 0
+sent packet at 45.514434
+counter: 0
+counter: 38
+sent packet at 46.514434
+counter: 0
+sent packet at 47.514038
+counter: 0
+counter: 39
+sent packet at 48.513885
+counter: 0
+counter: 38
+sent packet at 49.513671
+counter: 0
+counter: 49
+sent packet at 50.513549
+counter: 0
+sent packet at 51.513244
+counter: 0
+counter: 38
+sent packet at 52.513183
+counter: 0
+counter: 38
+sent packet at 53.512969
+counter: 0
+counter: 38
+sent packet at 54.512817
+counter: 0
+counter: 37
+sent packet at 55.512634
+counter: 0
+counter: 36
+sent packet at 56.512634
+counter: 0
+counter: 36
+sent packet at 57.512420
+counter: 0
+counter: 40
+sent packet at 58.512359
+counter: 0
+counter: 38
+sent packet at 59.512115
+counter: 0
+counter: 41
+sent packet at 0.511993
+counter: 0
+counter: 37
+sent packet at 1.511932
+counter: 0
+sent packet at 2.513305
+counter: 0
+sent packet at 3.513031
+counter: 0
+counter: 23
+sent packet at 4.512969
+counter: 0
+counter: 21
+sent packet at 5.512817
+counter: 0
+counter: 21
+sent packet at 6.512817
+counter: 0
+counter: 29
+sent packet at 7.512634
+counter: 0
+counter: 22
+sent packet at 8.512512
+counter: 0
+counter: 21
+sent packet at 9.512298
+counter: 0
+counter: 22
+sent packet at 10.512176
+counter: 0
+counter: 23
+sent packet at 11.512054
+counter: 0
+counter: 22
+sent packet at 12.511901
+counter: 0
+counter: 22
+sent packet at 13.511749
+counter: 0
+counter: 22
+sent packet at 14.511596
+counter: 0
+counter: 15
+sent packet at 15.511749
+counter: 0
+counter: 42
+sent packet at 16.511901
+counter: 0
+counter: 41
+sent packet at 17.511718
+counter: 0
+counter: 48
+sent packet at 18.511566
+counter: 0
+counter: 39
+sent packet at 19.511322
+counter: 0
+counter: 39
+sent packet at 20.512084
+counter: 0
+sent packet at 21.511840
+counter: 0
+counter: 33
+sent packet at 22.511718
+counter: 0
+counter: 38
+sent packet at 23.511505
+counter: 0
+counter: 40
+sent packet at 24.511322
+counter: 0
+counter: 38
+sent packet at 25.511077
+counter: 0
+counter: 48
+sent packet at 26.511047
+counter: 0
+counter: 38
+sent packet at 27.510833
+counter: 0
+counter: 39
+sent packet at 28.510772
+counter: 0
+counter: 37
+sent packet at 29.510528
+counter: 0
+counter: 39
+sent packet at 30.510345
+counter: 0
+counter: 38
+sent packet at 31.510192
+counter: 0
+sent packet at 32.509887
+counter: 0
+counter: 42
+sent packet at 33.509643
+counter: 0
+counter: 43
+sent packet at 34.509460
+counter: 0
+counter: 41
+sent packet at 35.509185
+counter: 0
+counter: 40
+sent packet at 36.509155
+counter: 0
+counter: 37
+sent packet at 37.508911
+counter: 0
+sent packet at 38.508575
+counter: 0
+counter: 40
+sent packet at 39.508331
+counter: 0
+counter: 41
+sent packet at 40.508148
+counter: 0
+counter: 41
+sent packet at 41.507995
+counter: 0
+counter: 52
+sent packet at 42.511016
+counter: 0
+counter: 6
+sent packet at 43.510803
+counter: 0
+counter: 6
+sent packet at 44.510650
+counter: 0
+counter: 6
+sent packet at 45.510406
+counter: 0
+counter: 6
+sent packet at 46.510314
+counter: 0
+counter: 6
+sent packet at 47.510101
+counter: 0
+counter: 6
+sent packet at 48.509918
+counter: 0
+counter: 26
+sent packet at 49.509643
+counter: 0
+counter: 6
+sent packet at 50.509460
+counter: 0
+counter: 16
+sent packet at 51.509338
+counter: 0
+counter: 6
+sent packet at 52.509155
+counter: 0
+counter: 7
+sent packet at 53.508911
+counter: 0
+counter: 8
+sent packet at 54.508697
+counter: 0
+counter: 7
+sent packet at 55.508453
+counter: 0
+sent packet at 56.508270
+counter: 0
+counter: 17
+sent packet at 57.508026
+counter: 0
+counter: 59
+sent packet at 58.511474
+counter: 0
+counter: 21
+sent packet at 59.511230
+counter: 0
+counter: 22
+sent packet at 0.511047
+counter: 0
+counter: 26
+sent packet at 1.510894
+counter: 0
+counter: 26
+sent packet at 2.510772
+counter: 0
+counter: 29
+sent packet at 3.510528
+counter: 0
+counter: 53
+sent packet at 4.513549
+counter: 0
+counter: 2
+sent packet at 5.513275
+counter: 0
+counter: 11
+sent packet at 6.513214
+counter: 0
+counter: 8
+sent packet at 7.512969
+counter: 0
+counter: 11
+sent packet at 8.512817
+counter: 0
+sent packet at 9.512359
+counter: 0
+sent packet at 10.511993
+counter: 0
+counter: 40
+sent packet at 11.511871
+counter: 0
+counter: 21
+sent packet at 12.511688
+counter: 0
+counter: 35
+sent packet at 13.511505
+counter: 0
+counter: 21
+sent packet at 14.511474
+counter: 0
+sent packet at 15.511108
+counter: 0
+counter: 22
+sent packet at 16.511077
+counter: 0
+counter: 12
+sent packet at 17.510864
+counter: 0
+counter: 22
+sent packet at 18.510681
+counter: 0
+counter: 22
+sent packet at 19.510467
+counter: 0
+counter: 22
+sent packet at 20.510314
+counter: 0
+counter: 44
+sent packet at 21.510192
+counter: 0
+sent packet at 22.509857
+counter: 0
+counter: 47
+sent packet at 23.509613
+counter: 0
+counter: 41
+sent packet at 24.509460
+counter: 0
+counter: 39
+sent packet at 25.509185
+counter: 0
+counter: 45
+sent packet at 26.509155
+counter: 0
+counter: 37
+sent packet at 27.508911
+counter: 0
+counter: 54
+sent packet at 28.512084
+counter: 0
+sent packet at 29.511688
+counter: 0
+counter: 25
+sent packet at 30.511505
+counter: 0
+counter: 3
+sent packet at 31.511352
+counter: 0
+counter: 3
+sent packet at 32.511199
+counter: 0
+counter: 6
+sent packet at 33.510955
+counter: 0
+counter: 6
+sent packet at 34.510803
+counter: 0
+counter: 6
+sent packet at 35.510528
+counter: 0
+counter: 6
+sent packet at 36.510467
+counter: 0
+counter: 3
+sent packet at 37.510253
+counter: 0
+counter: 24
+sent packet at 38.510101
+counter: 0
+counter: 6
+sent packet at 39.509857
+counter: 0
+counter: 6
+sent packet at 40.509674
+counter: 0
+counter: 6
+sent packet at 41.509552
+counter: 0
+counter: 138
+sent packet at 42.517669
+counter: 0
+counter: 15
+sent packet at 43.517486
+counter: 0
+counter: 21
+sent packet at 44.517700
+counter: 0
+sent packet at 45.517333
+counter: 0
+counter: 12
+sent packet at 46.517333
+counter: 0
+counter: 10
+sent packet at 47.517120
+counter: 0
+counter: 12
+sent packet at 48.516967
+counter: 0
+counter: 12
+sent packet at 49.517608
+counter: 0
+counter: 6
+sent packet at 50.517486
+counter: 0
+counter: 8
+sent packet at 51.517395
+counter: 0
+counter: 6
+sent packet at 52.517364
+counter: 0
+counter: 2
+sent packet at 53.517150
+counter: 0
+counter: 3
+sent packet at 54.516967
+counter: 0
+counter: 3
+sent packet at 55.516723
+counter: 0
+counter: 6
+sent packet at 56.516723
+counter: 0
+sent packet at 57.516326
+counter: 0
+counter: 12
+sent packet at 58.516204
+counter: 0
+counter: 6
+sent packet at 59.515960
+counter: 0
+counter: 7
+sent packet at 0.515808
+counter: 0
+counter: 6
+sent packet at 1.515655
+counter: 0
+counter: 6
+sent packet at 2.515502
+counter: 0
+counter: 6
+sent packet at 3.515289
+counter: 0
+counter: 7
+sent packet at 4.515075
+counter: 0
+counter: 7
+sent packet at 5.514831
+counter: 0
+counter: 25
+sent packet at 6.514770
+counter: 0
+counter: 5
+sent packet at 7.514526
+counter: 0
+counter: 22
+sent packet at 8.514373
+counter: 0
+counter: 7
+sent packet at 9.514129
+counter: 0
+counter: 8
+sent packet at 10.513946
+counter: 0
+counter: 8
+sent packet at 11.513824
+counter: 0
+counter: 8
+sent packet at 12.513641
+counter: 0
+counter: 9
+sent packet at 13.513427
+counter: 0
+counter: 9
+sent packet at 14.513244
+counter: 0
+counter: 34
+sent packet at 15.513031
+counter: 0
+counter: 10
+sent packet at 16.512969
+counter: 0
+sent packet at 17.512542
+counter: 0
+counter: 11
+sent packet at 18.512359
+counter: 0
+counter: 10
+sent packet at 19.512115
+counter: 0
+counter: 11
+sent packet at 20.511962
+counter: 0
+counter: 11
+sent packet at 21.511840
+counter: 0
+counter: 11
+sent packet at 22.511657
+counter: 0
+counter: 11
+sent packet at 23.511413
+counter: 0
+counter: 22
+sent packet at 24.511199
+counter: 0
+counter: 50
+counter: 9990
+sent packet at 25.513946
+counter: 0
+counter: 9993
+sent packet at 26.513916
+counter: 0
+counter: 9993
+sent packet at 27.513702
+counter: 0
+counter: 9993
+sent packet at 28.513580
+counter: 0
+counter: 9994
+sent packet at 29.513427
+counter: 0
+sent packet at 30.513061
+counter: 0
+sent packet at 31.513305
+counter: 0
+counter: 10
+counter: 9999
+sent packet at 32.513732
+counter: 0
+sent packet at 33.513305
+counter: 0
+counter: 9998
+sent packet at 34.513427
+counter: 0
+counter: 9996
+sent packet at 35.513336
+counter: 0
+counter: 9992
+sent packet at 36.513305
+counter: 0
+counter: 9994
+sent packet at 37.513153
+counter: 0
+counter: 9992
+sent packet at 38.513000
+counter: 0
+counter: 9995
+sent packet at 39.512847
+counter: 0
+counter: 9993
+sent packet at 40.512664
+counter: 0
+sent packet at 41.512329
+counter: 0
+counter: 4
+counter: 9991
+sent packet at 42.512420
+counter: 0
+sent packet at 43.512023
+counter: 0
+sent packet at 44.511718
+counter: 0
+counter: 9995
+sent packet at 45.511596
+counter: 0
+counter: 9992
+sent packet at 46.511596
+counter: 0
+counter: 9993
+sent packet at 47.511413
+counter: 0
+counter: 9993
+sent packet at 48.511260
+counter: 0
+counter: 9993
+sent packet at 49.511016
+counter: 0
+counter: 9992
+sent packet at 50.510833
+counter: 0
+counter: 9992
+sent packet at 51.510711
+counter: 0
+counter: 9992
+sent packet at 52.510589
+counter: 0
+counter: 9993
+sent packet at 53.510345
+counter: 0
+counter: 9993
+sent packet at 54.510192
+counter: 0
+counter: 9993
+sent packet at 55.509918
+counter: 0
+sent packet at 56.509735
+counter: 0
+counter: 48
+sent packet at 57.509521
+counter: 0
+counter: 43
+sent packet at 58.509399
+counter: 0
+counter: 42
+sent packet at 59.509155
+counter: 0
+counter: 41
+sent packet at 0.508972
+counter: 0
+counter: 39
+sent packet at 1.508850
+counter: 0
+counter: 39
+sent packet at 2.508697
+counter: 0
+counter: 39
+sent packet at 3.508453
+counter: 0
+counter: 40
+sent packet at 4.508300
+counter: 0
+counter: 39
+sent packet at 5.508026
+counter: 0
+counter: 41
+sent packet at 6.507965
+counter: 0
+counter: 38
+sent packet at 7.507751
+counter: 0
+counter: 38
+sent packet at 8.507598
+counter: 0
+counter: 39
+sent packet at 9.507354
+counter: 0
+counter: 38
+sent packet at 10.507141
+counter: 0
+counter: 38
+sent packet at 11.506988
+counter: 0
+counter: 38
+sent packet at 12.507263
+counter: 0
+counter: 36
+sent packet at 13.507141
+counter: 0
+counter: 37
+sent packet at 14.506988
+counter: 0
+counter: 37
+sent packet at 15.506774
+counter: 0
+counter: 42
+sent packet at 16.506774
+counter: 0
+counter: 36
+sent packet at 17.507507
+counter: 0
+sent packet at 18.507202
+counter: 0
+sent packet at 19.506774
+counter: 0
+counter: 40
+sent packet at 20.506652
+counter: 0
+counter: 39
+sent packet at 21.506530
+counter: 0
+counter: 39
+sent packet at 22.506378
+counter: 0
+counter: 41
+sent packet at 23.506164
+counter: 0
+counter: 39
+sent packet at 24.505981
+counter: 0
+counter: 39
+sent packet at 25.505737
+counter: 0
+counter: 38
+sent packet at 26.505706
+counter: 0
+sent packet at 27.505279
+counter: 0
+counter: 39
+sent packet at 28.505157
+counter: 0
+counter: 38
+sent packet at 29.504943
+counter: 0
+counter: 38
+sent packet at 30.504730
+counter: 0
+counter: 40
+sent packet at 31.504608
+counter: 0
+counter: 38
+sent packet at 32.504486
+counter: 0
+counter: 42
+sent packet at 33.504241
+counter: 0
+counter: 43
+sent packet at 34.504058
+counter: 0
+counter: 117
+counter: 9975
+sent packet at 35.510009
+counter: 0
+counter: 9983
+sent packet at 36.509399
+counter: 0
+counter: 9990
+sent packet at 37.508941
+counter: 0
+counter: 9992
+sent packet at 38.508789
+counter: 0
+counter: 9999
+sent packet at 39.508941
+counter: 0
+counter: 9989
+sent packet at 40.508544
+counter: 0
+sent packet at 41.508239
+counter: 0
+counter: 9992
+sent packet at 42.508087
+counter: 0
+counter: 9992
+sent packet at 43.507873
+counter: 0
+counter: 9991
+sent packet at 44.507659
+counter: 0
+counter: 9991
+sent packet at 45.507293
+counter: 0
+counter: 9991
+sent packet at 46.507141
+counter: 0
+sent packet at 47.506713
+counter: 0
+counter: 6
+counter: 9993
+sent packet at 48.506744
+counter: 0
+sent packet at 49.506286
+counter: 0
+counter: 1
+counter: 9999
+sent packet at 50.506683
+counter: 0
+sent packet at 51.506347
+counter: 0
+counter: 9991
+sent packet at 52.506805
+counter: 0
+counter: 9994
+sent packet at 53.506683
+counter: 0
+counter: 9992
+sent packet at 54.506500
+counter: 0
+counter: 9993
+sent packet at 55.506286
+counter: 0
+sent packet at 56.506072
+counter: 0
+counter: 7
+sent packet at 57.505859
+counter: 0
+sent packet at 58.506134
+counter: 0
+sent packet at 59.505706
+counter: 0
+counter: 14
+sent packet at 0.505554
+counter: 0
+counter: 21
+sent packet at 1.505401
+counter: 0
+counter: 22
+sent packet at 2.505279
+counter: 0
+counter: 22
+sent packet at 3.505035
+counter: 0
+counter: 21
+sent packet at 4.504852
+counter: 0
+counter: 24
+sent packet at 5.504608
+counter: 0
+counter: 22
+sent packet at 6.504516
+counter: 0
+counter: 84
+sent packet at 7.509399
+counter: 0
+counter: 11
+sent packet at 8.509368
+counter: 0
+counter: 9
+sent packet at 9.509155
+counter: 0
+counter: 24
+sent packet at 10.508972
+counter: 0
+sent packet at 11.508666
+counter: 0
+counter: 26
+sent packet at 12.508514
+counter: 0
+counter: 11
+sent packet at 13.508331
+counter: 0
+counter: 11
+sent packet at 14.508178
+counter: 0
+counter: 10
+sent packet at 15.507934
+counter: 0
+counter: 11
+sent packet at 16.507904
+counter: 0
+counter: 10
+sent packet at 17.507659
+counter: 0
+counter: 25
+sent packet at 18.507507
+counter: 0
+counter: 9
+sent packet at 19.507263
+counter: 0
+sent packet at 20.506896
+counter: 0
+counter: 9
+sent packet at 21.506805
+counter: 0
+sent packet at 22.506439
+counter: 0
+sent packet at 23.506042
+counter: 0
+counter: 21
+sent packet at 24.505889
+counter: 0
+counter: 12
+sent packet at 25.505645
+counter: 0
+counter: 21
+sent packet at 26.505615
+counter: 0
+counter: 11
+sent packet at 27.505371
+counter: 0
+counter: 16
+sent packet at 28.505279
+counter: 0
+counter: 12
+sent packet at 29.505035
+counter: 0
+counter: 12
+sent packet at 30.504852
+counter: 0
+counter: 12
+sent packet at 31.504699
+counter: 0
+counter: 12
+sent packet at 32.504577
+counter: 0
+sent packet at 33.504180
+counter: 0
+counter: 21
+sent packet at 34.503967
+counter: 0
+counter: 21
+sent packet at 35.503723
+counter: 0
+counter: 23
+sent packet at 36.503662
+counter: 0
+counter: 13
+sent packet at 37.503448
+counter: 0
+counter: 21
+sent packet at 38.503692
+counter: 0
+counter: 9
+sent packet at 39.503509
+counter: 0
+counter: 10
+sent packet at 40.503356
+counter: 0
+counter: 9
+sent packet at 41.503265
+counter: 0
+counter: 10
+sent packet at 42.503112
+counter: 0
+counter: 9
+sent packet at 43.503784
+counter: 0
+counter: 1
+sent packet at 44.503723
+counter: 0
+sent packet at 45.503875
+counter: 0
+counter: 10000
+sent packet at 46.504241
+counter: 0
+sent packet at 47.504425
+counter: 0
+counter: 9994
+sent packet at 48.504333
+counter: 0
+counter: 9994
+sent packet at 49.504211
+counter: 0
+counter: 9992
+sent packet at 50.504058
+counter: 0
+counter: 9992
+sent packet at 51.503936
+counter: 0
+counter: 9993
+sent packet at 52.503753
+counter: 0
+counter: 9994
+sent packet at 53.503631
+counter: 0
+sent packet at 54.503234
+counter: 0
+counter: 42
+sent packet at 55.503021
+counter: 0
+counter: 38
+sent packet at 56.502990
+counter: 0
+counter: 38
+sent packet at 57.502777
+counter: 0
+counter: 39
+sent packet at 58.502655
+counter: 0
+counter: 38
+sent packet at 59.502410
+counter: 0
+counter: 38
+sent packet at 0.502227
+counter: 0
+counter: 41
+sent packet at 1.502136
+counter: 0
+counter: 38
+sent packet at 2.502014
+counter: 0
+counter: 52
+sent packet at 3.505004
+counter: 0
+counter: 6
+sent packet at 4.504821
+counter: 0
+counter: 87
+sent packet at 5.509887
+counter: 0
+counter: 6
+sent packet at 6.509796
+counter: 0
+counter: 29
+sent packet at 7.509552
+counter: 0
+counter: 6
+sent packet at 8.509399
+counter: 0
+sent packet at 9.509002
+counter: 0
+counter: 8
+sent packet at 10.508789
+counter: 0
+counter: 7
+sent packet at 11.508636
+counter: 0
+counter: 7
+sent packet at 12.508483
+counter: 0
+counter: 8
+sent packet at 13.508270
+counter: 0
+counter: 9
+sent packet at 14.508148
+counter: 0
+sent packet at 15.507720
+counter: 0
+sent packet at 16.507507
+counter: 0
+counter: 12
+sent packet at 17.507293
+counter: 0
+counter: 21
+sent packet at 18.507080
+counter: 0
+counter: 23
+sent packet at 19.506835
+counter: 0
+counter: 22
+sent packet at 20.506683
+counter: 0
+counter: 23
+sent packet at 21.506561
+counter: 0
+counter: 39
+sent packet at 22.506408
+counter: 0
+counter: 27
+sent packet at 23.506164
+counter: 0
+counter: 34
+sent packet at 24.505981
+counter: 0
+counter: 36
+sent packet at 25.505706
+counter: 0
+sent packet at 26.505493
+counter: 0
+counter: 37
+sent packet at 27.505249
+counter: 0
+counter: 39
+sent packet at 28.505157
+counter: 0
+counter: 38
+sent packet at 29.504913
+counter: 0
+counter: 38
+sent packet at 30.504730
+counter: 0
+counter: 38
+sent packet at 31.504577
+counter: 0
+counter: 39
+sent packet at 32.504455
+counter: 0
+counter: 39
+sent packet at 33.504211
+counter: 0
+counter: 41
+sent packet at 34.503997
+counter: 0
+counter: 38
+sent packet at 35.503784
+counter: 0
+counter: 39
+sent packet at 36.503723
+counter: 0
+counter: 39
+sent packet at 37.503631
+counter: 0
+counter: 39
+sent packet at 38.503509
+counter: 0
+sent packet at 39.503112
+counter: 0
+counter: 40
+sent packet at 40.502960
+counter: 0
+sent packet at 41.502655
+counter: 0
+counter: 39
+sent packet at 42.502532
+counter: 0
+counter: 39
+sent packet at 43.502319
+counter: 0
+counter: 39
+sent packet at 44.502197
+counter: 0
+counter: 40
+sent packet at 45.501953
+counter: 0
+sent packet at 46.501708
+counter: 0
+counter: 40
+sent packet at 47.501495
+counter: 0
+counter: 40
+sent packet at 48.501312
+counter: 0
+counter: 40
+sent packet at 49.501068
+counter: 0
+counter: 40
+sent packet at 50.500915
+counter: 0
+counter: 41
+sent packet at 51.500793
+counter: 0
+sent packet at 52.500579
+counter: 0
+counter: 40
+sent packet at 53.500366
+counter: 0
+counter: 47
+sent packet at 54.500183
+counter: 0
+counter: 41
+sent packet at 55.499938
+counter: 0
+counter: 40
+sent packet at 56.499938
+counter: 0
+counter: 38
+sent packet at 57.499725
+counter: 0
+counter: 39
+sent packet at 58.499603
+counter: 0
+counter: 38
+sent packet at 59.499359
+counter: 0
+counter: 40
+sent packet at 0.499176
+counter: 0
+counter: 38
+sent packet at 1.499053
+counter: 0
+counter: 36
+sent packet at 2.498962
+counter: 0
+counter: 38
+sent packet at 3.498718
+counter: 0
+counter: 38
+sent packet at 4.498565
+counter: 0
+counter: 38
+sent packet at 5.498321
+counter: 0
+counter: 37
+sent packet at 6.498229
+counter: 0
+counter: 38
+sent packet at 7.498382
+counter: 0
+counter: 37
+sent packet at 8.498352
+counter: 0
+counter: 38
+sent packet at 9.498168
+counter: 0
+sent packet at 10.497802
+counter: 0
+counter: 40
+sent packet at 11.497711
+counter: 0
+counter: 38
+sent packet at 12.498474
+counter: 0
+counter: 34
+sent packet at 13.498291
+counter: 0
+counter: 36
+sent packet at 14.498199
+counter: 0
+counter: 36
+sent packet at 15.497955
+counter: 0
+sent packet at 16.497772
+counter: 0
+counter: 38
+sent packet at 17.497558
+counter: 0
+counter: 39
+sent packet at 18.497375
+counter: 0
+counter: 38
+sent packet at 19.497161
+counter: 0
+counter: 38
+sent packet at 20.497009
+counter: 0
+counter: 37
+sent packet at 21.496887
+counter: 0
+counter: 40
+sent packet at 22.496704
+counter: 0
+counter: 39
+sent packet at 23.496490
+counter: 0
+counter: 40
+sent packet at 24.496307
+counter: 0
+counter: 38
+sent packet at 25.496063
+counter: 0
+counter: 42
+sent packet at 26.496002
+counter: 0
+counter: 37
+sent packet at 27.495788
+counter: 0
+sent packet at 28.495483
+counter: 0
+counter: 39
+sent packet at 29.495239
+counter: 0
+counter: 39
+sent packet at 30.495056
+counter: 0
+counter: 40
+sent packet at 31.494934
+counter: 0
+counter: 38
+sent packet at 32.494781
+counter: 0
+counter: 39
+sent packet at 33.494537
+counter: 0
+counter: 40
+sent packet at 34.494323
+counter: 0
+counter: 39
+sent packet at 35.494079
+counter: 0
+counter: 39
+sent packet at 36.494018
+counter: 0
+counter: 38
+sent packet at 37.493804
+counter: 0
+counter: 47
+sent packet at 38.493621
+counter: 0
+counter: 42
+sent packet at 39.493377
+counter: 0
+counter: 44
+sent packet at 40.493194
+counter: 0
+counter: 41
+sent packet at 41.493041
+counter: 0
+counter: 41
+sent packet at 42.492858
+counter: 0
+counter: 40
+sent packet at 43.492645
+counter: 0
+counter: 39
+sent packet at 44.492492
+counter: 0
+counter: 42
+sent packet at 45.492248
+counter: 0
+counter: 40
+sent packet at 46.492156
+counter: 0
+counter: 41
+sent packet at 47.491943
+counter: 0
+counter: 41
+sent packet at 48.491760
+counter: 0
+counter: 39
+sent packet at 49.491516
+counter: 0
+counter: 39
+sent packet at 50.491302
+counter: 0
+counter: 46
+sent packet at 51.491180
+counter: 0
+sent packet at 52.490844
+counter: 0
+counter: 45
+sent packet at 53.490600
+counter: 0
+counter: 40
+sent packet at 54.490417
+counter: 0
+counter: 38
+sent packet at 55.490173
+counter: 0
+counter: 38
+sent packet at 56.490142
+counter: 0
+counter: 36
+sent packet at 57.489929
+counter: 0
+counter: 39
+sent packet at 58.489776
+counter: 0
+counter: 38
+sent packet at 59.489562
+counter: 0
+counter: 38
+sent packet at 0.489379
+counter: 0
+counter: 37
+sent packet at 1.489257
+counter: 0
+counter: 37
+sent packet at 2.489105
+counter: 0
+counter: 37
+sent packet at 3.488861
+counter: 0
+counter: 38
+sent packet at 4.488708
+counter: 0
+counter: 37
+sent packet at 5.488586
+counter: 0
+counter: 177
+counter: 9929
+sent packet at 6.495666
+counter: 0
+sent packet at 7.495239
+counter: 0
+counter: 6
+sent packet at 8.495086
+counter: 0
+sent packet at 9.494689
+counter: 0
+counter: 6
+sent packet at 10.494537
+counter: 0
+counter: 15
+sent packet at 11.494384
+counter: 0
+counter: 23
+sent packet at 12.494232
+counter: 0
+counter: 6
+sent packet at 13.493988
+counter: 0
+counter: 7
+sent packet at 14.493865
+counter: 0
+counter: 7
+sent packet at 15.493591
+counter: 0
+counter: 7
+sent packet at 16.493560
+counter: 0
+counter: 22
+sent packet at 17.493316
+counter: 0
+counter: 7
+sent packet at 18.493133
+counter: 0
+counter: 6
+sent packet at 19.492889
+counter: 0
+counter: 8
+sent packet at 20.492736
+counter: 0
+counter: 6
+sent packet at 21.492614
+counter: 0
+counter: 6
+sent packet at 22.492431
+counter: 0
+counter: 6
+sent packet at 23.492187
+counter: 0
+counter: 7
+sent packet at 24.492034
+counter: 0
+counter: 11
+sent packet at 25.491790
+counter: 0
+counter: 7
+sent packet at 26.491729
+counter: 0
+sent packet at 27.491302
+counter: 0
+counter: 8
+sent packet at 28.491149
+counter: 0
+counter: 7
+sent packet at 29.490966
+counter: 0
+counter: 7
+sent packet at 30.490783
+counter: 0
+counter: 8
+sent packet at 31.490661
+counter: 0
+counter: 7
+sent packet at 32.490539
+counter: 0
+counter: 7
+sent packet at 33.490295
+counter: 0
+counter: 7
+sent packet at 34.490112
+counter: 0
+counter: 8
+sent packet at 35.490234
+counter: 0
+counter: 6
+sent packet at 36.490295
+counter: 0
+counter: 3
+sent packet at 37.490112
+counter: 0
+counter: 6
+sent packet at 38.489959
+counter: 0
+counter: 3
+sent packet at 39.489715
+counter: 0
+counter: 6
+counter: 9997
+sent packet at 40.490997
+counter: 0
+sent packet at 41.490722
+counter: 0
+counter: 6
+counter: 9993
+sent packet at 42.490783
+counter: 0
+sent packet at 43.490356
+counter: 0
+counter: 9994
+sent packet at 44.490356
+counter: 0
+counter: 9998
+sent packet at 45.490417
+counter: 0
+sent packet at 46.490173
+counter: 0
+counter: 21
+sent packet at 47.489959
+counter: 0
+counter: 21
+sent packet at 48.489807
+counter: 0
+counter: 21
+sent packet at 49.489562
+counter: 0
+counter: 25
+sent packet at 50.489379
+counter: 0
+counter: 27
+sent packet at 51.489257
+counter: 0
+counter: 24
+sent packet at 52.489227
+counter: 0
+counter: 21
+sent packet at 53.488983
+counter: 0
+counter: 22
+sent packet at 54.488830
+counter: 0
+counter: 23
+sent packet at 55.488555
+counter: 0
+counter: 22
+sent packet at 56.488555
+counter: 0
+counter: 21
+sent packet at 57.488342
+counter: 0
+counter: 22
+sent packet at 58.488159
+counter: 0
+counter: 24
+sent packet at 59.487976
+counter: 0
+counter: 21
+sent packet at 0.487792
+counter: 0
+counter: 22
+sent packet at 1.487640
+counter: 0
+counter: 23
+sent packet at 2.487518
+counter: 0
+counter: 27
+sent packet at 3.487274
+counter: 0
+counter: 21
+sent packet at 4.487091
+counter: 0
+counter: 21
+sent packet at 5.486846
+counter: 0
+counter: 28
+sent packet at 6.486755
+counter: 0
+counter: 28
+sent packet at 7.486541
+counter: 0
+counter: 34
+sent packet at 8.486358
+counter: 0
+counter: 28
+sent packet at 9.486114
+counter: 0
+counter: 32
+sent packet at 10.485931
+counter: 0
+counter: 40
+sent packet at 11.485778
+counter: 0
+counter: 39
+sent packet at 12.485626
+counter: 0
+counter: 39
+sent packet at 13.485351
+counter: 0
+counter: 40
+sent packet at 14.485229
+counter: 0
+sent packet at 15.484802
+counter: 0
+counter: 39
+sent packet at 16.484741
+counter: 0
+counter: 37
+sent packet at 17.484497
+counter: 0
+counter: 38
+sent packet at 18.484313
+counter: 0
+counter: 39
+sent packet at 19.484039
+counter: 0
+counter: 38
+sent packet at 20.483886
+counter: 0
+counter: 41
+sent packet at 21.483764
+counter: 0
+counter: 40
+sent packet at 22.483581
+counter: 0
+counter: 40
+sent packet at 23.483337
+counter: 0
+counter: 39
+sent packet at 24.483184
+counter: 0
+counter: 42
+sent packet at 25.482940
+counter: 0
+counter: 39
+sent packet at 26.482879
+counter: 0
+counter: 37
+sent packet at 27.482666
+counter: 0
+counter: 38
+sent packet at 28.482513
+counter: 0
+counter: 38
+sent packet at 29.482299
+counter: 0
+counter: 40
+sent packet at 30.482086
+counter: 0
+counter: 41
+sent packet at 31.481964
+counter: 0
+counter: 40
+sent packet at 32.481994
+counter: 0
+counter: 45
+sent packet at 33.481781
+counter: 0
+counter: 38
+sent packet at 34.481597
+counter: 0
+counter: 56
+sent packet at 35.484771
+counter: 0
+counter: 3
+sent packet at 36.484741
+counter: 0
+counter: 1
+sent packet at 37.484558
+counter: 0
+counter: 3
+sent packet at 38.484405
+counter: 0
+counter: 2
+sent packet at 39.484161
+counter: 0
+counter: 2
+sent packet at 40.484008
+counter: 0
+counter: 2
+sent packet at 41.483886
+counter: 0
+counter: 28
+sent packet at 42.483734
+counter: 0
+counter: 1
+sent packet at 43.483489
+counter: 0
+sent packet at 44.483215
+counter: 0
+counter: 4
+sent packet at 45.483001
+counter: 0
+counter: 3
+sent packet at 46.482910
+counter: 0
+counter: 1
+sent packet at 47.482727
+counter: 0
+counter: 11
+sent packet at 48.482543
+counter: 0
+counter: 6
+sent packet at 49.482299
+counter: 0
+counter: 40
+sent packet at 50.482116
+counter: 0
+counter: 42
+sent packet at 51.481994
+counter: 0
+counter: 39
+sent packet at 52.481872
+counter: 0
+counter: 39
+sent packet at 53.481628
+counter: 0
+counter: 39
+sent packet at 54.481445
+counter: 0
+counter: 38
+sent packet at 55.481201
+counter: 0
+counter: 38
+sent packet at 56.481170
+counter: 0
+counter: 39
+sent packet at 57.480987
+counter: 0
+counter: 39
+sent packet at 58.480834
+counter: 0
+counter: 39
+sent packet at 59.480621
+counter: 0
+counter: 39
+sent packet at 0.480438
+counter: 0
+sent packet at 1.480133
+counter: 0
+counter: 40
+sent packet at 2.480377
+counter: 0
+counter: 39
+sent packet at 3.480224
+counter: 0
+counter: 39
+sent packet at 4.480072
+counter: 0
+counter: 39
+sent packet at 5.479858
+counter: 0
+counter: 39
+sent packet at 6.479797
+counter: 0
+counter: 37
+sent packet at 7.480468
+counter: 0
+sent packet at 8.480194
+counter: 0
+counter: 32
+sent packet at 9.479980
+counter: 0
+counter: 36
+sent packet at 10.479827
+counter: 0
+counter: 38
+sent packet at 11.479736
+counter: 0
+counter: 37
+sent packet at 12.479583
+counter: 0
+counter: 38
+sent packet at 13.479339
+counter: 0
+counter: 42
+sent packet at 14.479217
+counter: 0
+counter: 43
+sent packet at 15.479003
+counter: 0
+counter: 40
+sent packet at 16.478942
+counter: 0
+counter: 37
+sent packet at 17.478729
+counter: 0
+counter: 39
+sent packet at 18.478546
+counter: 0
+counter: 39
+sent packet at 19.478302
+counter: 0
+counter: 41
+sent packet at 20.478118
+counter: 0
+counter: 38
+sent packet at 21.477996
+counter: 0
+counter: 39
+sent packet at 22.477813
+counter: 0
+counter: 39
+sent packet at 23.477569
+counter: 0
+counter: 39
+sent packet at 24.477386
+counter: 0
+counter: 38
+sent packet at 25.477142
+counter: 0
+counter: 42
+sent packet at 26.477081
+counter: 0
+sent packet at 27.476654
+counter: 0
+counter: 39
+sent packet at 28.476501
+counter: 0
+counter: 38
+sent packet at 29.476287
+counter: 0
+counter: 41
+sent packet at 30.476104
+counter: 0
+counter: 45
+sent packet at 31.475952
+counter: 0
+counter: 58
+sent packet at 32.479309
+counter: 0
+counter: 29
+sent packet at 33.479064
+counter: 0
+counter: 22
+sent packet at 34.478851
+counter: 0
+counter: 22
+sent packet at 35.478607
+counter: 0
+counter: 27
+sent packet at 36.478546
+counter: 0
+counter: 23
+sent packet at 37.478332
+counter: 0
+counter: 27
+sent packet at 38.478149
+counter: 0
+counter: 27
+sent packet at 39.477935
+counter: 0
+counter: 27
+sent packet at 40.477722
+counter: 0
+counter: 24
+sent packet at 41.477569
+counter: 0
+counter: 27
+sent packet at 42.477416
+counter: 0
+counter: 29
+sent packet at 43.477172
+counter: 0
+counter: 27
+sent packet at 44.477050
+counter: 0
+sent packet at 45.476623
+counter: 0
+counter: 28
+sent packet at 46.476531
+counter: 0
+counter: 27
+sent packet at 47.476287
+counter: 0
+counter: 29
+sent packet at 48.476135
+counter: 0
+counter: 30
+sent packet at 49.475860
+counter: 0
+counter: 30
+sent packet at 50.475677
+counter: 0
+sent packet at 51.475372
+counter: 0
+counter: 38
+sent packet at 52.475341
+counter: 0
+counter: 37
+sent packet at 53.475128
+counter: 0
+counter: 38
+sent packet at 54.474945
+counter: 0
+counter: 37
+sent packet at 55.474731
+counter: 0
+counter: 39
+sent packet at 56.474700
+counter: 0
+counter: 37
+sent packet at 57.474487
+counter: 0
+counter: 41
+sent packet at 58.474334
+counter: 0
+counter: 38
+sent packet at 59.474243
+counter: 0
+counter: 42
+sent packet at 0.474121
+counter: 0
+counter: 37
+sent packet at 1.474060
+counter: 0
+counter: 36
+sent packet at 2.475585
+counter: 0
+counter: 24
+sent packet at 3.475524
+counter: 0
+counter: 21
+sent packet at 4.475494
+counter: 0
+counter: 20
+sent packet at 5.475311
+counter: 0
+counter: 21
+sent packet at 6.475311
+counter: 0
+counter: 34
+sent packet at 7.475128
+counter: 0
+counter: 21
+sent packet at 8.475006
+counter: 0
+sent packet at 9.474609
+counter: 0
+counter: 21
+sent packet at 10.474426
+counter: 0
+counter: 23
+sent packet at 11.474304
+counter: 0
+counter: 21
+sent packet at 12.474212
+counter: 0
+counter: 15
+sent packet at 13.473968
+counter: 0
+counter: 22
+sent packet at 14.473876
+counter: 0
+counter: 40
+sent packet at 15.473693
+counter: 0
+counter: 21
+sent packet at 16.473693
+counter: 0
+counter: 37
+sent packet at 17.473480
+counter: 0
+counter: 12
+sent packet at 18.473327
+counter: 0
+counter: 12
+sent packet at 19.473114
+counter: 0
+counter: 12
+sent packet at 20.472961
+counter: 0
+counter: 30
+sent packet at 21.472839
+counter: 0
+counter: 11
+sent packet at 22.472686
+counter: 0
+sent packet at 23.472259
+counter: 0
+counter: 12
+sent packet at 24.472106
+counter: 0
+counter: 13
+sent packet at 25.471832
+counter: 0
+counter: 14
+sent packet at 26.471801
+counter: 0
+counter: 12
+sent packet at 27.471557
+counter: 0
+counter: 21
+sent packet at 28.471405
+counter: 0
+counter: 22
+sent packet at 29.471557
+counter: 0
+counter: 35
+sent packet at 30.471496
+counter: 0
+counter: 7
+sent packet at 31.471405
+counter: 0
+counter: 6
+sent packet at 32.471313
+counter: 0
+counter: 6
+sent packet at 33.471099
+counter: 0
+counter: 7
+counter: 10000
+sent packet at 34.472412
+counter: 0
+counter: 9999
+sent packet at 35.472595
+counter: 0
+counter: 9991
+sent packet at 36.472534
+counter: 0
+counter: 9993
+sent packet at 37.472320
+counter: 0
+counter: 9998
+sent packet at 38.472503
+counter: 0
+counter: 9990
+sent packet at 39.472045
+counter: 0
+counter: 9992
+sent packet at 40.471893
+counter: 0
+sent packet at 41.471557
+counter: 0
+counter: 22
+sent packet at 42.471405
+counter: 0
+counter: 23
+sent packet at 43.471160
+counter: 0
+counter: 26
+sent packet at 44.471038
+counter: 0
+counter: 22
+sent packet at 45.470794
+counter: 0
+counter: 26
+sent packet at 46.470703
+counter: 0
+counter: 21
+sent packet at 47.470458
+counter: 0
+counter: 29
+sent packet at 48.470275
+counter: 0
+counter: 36
+sent packet at 49.470031
+counter: 0
+counter: 27
+sent packet at 50.469848
+counter: 0
+counter: 33
+sent packet at 51.469696
+counter: 0
+counter: 26
+sent packet at 52.469543
+counter: 0
+counter: 30
+sent packet at 53.469299
+counter: 0
+counter: 27
+sent packet at 54.469085
+counter: 0
+counter: 36
+sent packet at 55.468841
+counter: 0
+counter: 40
+sent packet at 56.468811
+counter: 0
+counter: 37
+sent packet at 57.468597
+counter: 0
+counter: 46
+sent packet at 58.468414
+counter: 0
+counter: 38
+sent packet at 59.468200
+counter: 0
+counter: 43
+sent packet at 0.468017
+counter: 0
+counter: 40
+sent packet at 1.467864
+counter: 0
+counter: 39
+sent packet at 2.467742
+counter: 0
+counter: 40
+sent packet at 3.467498
+counter: 0
+sent packet at 4.467132
+counter: 0
+counter: 41
+sent packet at 5.466888
+counter: 0
+counter: 55
+sent packet at 6.470123
+counter: 0
+counter: 2
+sent packet at 7.469879
+counter: 0
+sent packet at 8.469543
+counter: 0
+sent packet at 9.469116
+counter: 0
+counter: 8
+sent packet at 10.468933
+counter: 0
+counter: 6
+sent packet at 11.468780
+counter: 0
+sent packet at 12.468444
+counter: 0
+counter: 7
+sent packet at 13.468200
+counter: 0
+counter: 21
+sent packet at 14.468048
+counter: 0
+sent packet at 15.467620
+counter: 0
+counter: 10
+sent packet at 16.467590
+counter: 0
+counter: 8
+sent packet at 17.467376
+counter: 0
+counter: 8
+sent packet at 18.467193
+counter: 0
+counter: 8
+sent packet at 19.466949
+counter: 0
+counter: 8
+sent packet at 20.466796
+counter: 0
+counter: 7
+sent packet at 21.466644
+counter: 0
+counter: 7
+sent packet at 22.466491
+counter: 0
+counter: 6
+sent packet at 23.466217
+counter: 0
+counter: 8
+sent packet at 24.466033
+counter: 0
+counter: 8
+sent packet at 25.465789
+counter: 0
+counter: 9
+sent packet at 26.465850
+counter: 0
+counter: 7
+sent packet at 27.465667
+counter: 0
+counter: 6
+sent packet at 28.465545
+counter: 0
+counter: 6
+sent packet at 29.465332
+counter: 0
+counter: 13
+sent packet at 30.465148
+counter: 0
+counter: 6
+sent packet at 31.465026
+counter: 0
+counter: 6
+sent packet at 32.464904
+counter: 0
+counter: 5
+sent packet at 33.464660
+counter: 0
+counter: 7
+sent packet at 34.464477
+counter: 0
+counter: 6
+sent packet at 35.464233
+counter: 0
+counter: 25
+sent packet at 36.464202
+counter: 0
+counter: 6
+sent packet at 37.463989
+counter: 0
+sent packet at 38.463653
+counter: 0
+counter: 10
+sent packet at 39.463409
+counter: 0
+counter: 8
+sent packet at 40.463226
+counter: 0
+counter: 8
+sent packet at 41.463104
+counter: 0
+counter: 9
+sent packet at 42.462921
+counter: 0
+counter: 7
+sent packet at 43.462677
+counter: 0
+counter: 9
+sent packet at 44.462554
+counter: 0
+counter: 10
+sent packet at 45.462310
+counter: 0
+sent packet at 46.462066
+counter: 0
+counter: 8
+sent packet at 47.461822
+counter: 0
+counter: 9
+sent packet at 48.461669
+counter: 0
+counter: 12
+sent packet at 49.461425
+counter: 0
+counter: 12
+sent packet at 50.461242
+counter: 0
+counter: 13
+sent packet at 51.461120
+counter: 0
+sent packet at 52.460876
+counter: 0
+counter: 11
+sent packet at 53.460662
+counter: 0
+sent packet at 54.460327
+counter: 0
+counter: 21
+sent packet at 55.460052
+counter: 0
+counter: 22
+sent packet at 56.460449
+counter: 0
+counter: 9
+sent packet at 57.460327
+counter: 0
+counter: 10
+sent packet at 58.460174
+counter: 0
+counter: 9
+sent packet at 59.459991
+counter: 0
+counter: 10
+sent packet at 0.459869
+counter: 0
+sent packet at 1.460449
+counter: 0
+counter: 1
+sent packet at 2.460388
+counter: 0
+counter: 1
+sent packet at 3.460144
+counter: 0
+counter: 1
+sent packet at 4.460021
+counter: 0
+counter: 1
+sent packet at 5.459777
+counter: 0
+counter: 1
+sent packet at 6.459716
+counter: 0
+counter: 7
+sent packet at 7.459503
+counter: 0
+sent packet at 8.459747
+counter: 0
+counter: 2
+sent packet at 9.459503
+counter: 0
+counter: 11
+counter: 9999
+sent packet at 10.459930
+counter: 0
+counter: 9996
+sent packet at 11.459991
+counter: 0
+counter: 9996
+sent packet at 12.460052
+counter: 0
+counter: 9992
+sent packet at 13.459777
+counter: 0
+counter: 9991
+sent packet at 14.459594
+counter: 0
+sent packet at 15.459167
+counter: 0
+counter: 31
+sent packet at 16.459106
+counter: 0
+counter: 41
+sent packet at 17.458923
+counter: 0
+counter: 40
+sent packet at 18.458740
+counter: 0
+counter: 38
+sent packet at 19.458496
+counter: 0
+counter: 39
+sent packet at 20.458343
+counter: 0
+counter: 44
+sent packet at 21.458190
+counter: 0
+counter: 39
+sent packet at 22.458038
+counter: 0
+counter: 36
+sent packet at 23.457824
+counter: 0
+counter: 39
+sent packet at 24.457641
+counter: 0
+counter: 47
+sent packet at 25.457397
+counter: 0
+counter: 42
+sent packet at 26.457336
+counter: 0
+counter: 44
+sent packet at 27.457122
+counter: 0
+counter: 62
+sent packet at 28.460784
+counter: 0
+counter: 9999
+sent packet at 29.461578
+counter: 0
+counter: 9994
+sent packet at 30.461486
+counter: 0
+counter: 9993
+sent packet at 31.461334
+counter: 0
+counter: 9993
+sent packet at 32.461212
+counter: 0
+sent packet at 33.460754
+counter: 0
+counter: 22
+sent packet at 34.460571
+counter: 0
+counter: 24
+sent packet at 35.460327
+counter: 0
+counter: 26
+sent packet at 36.460235
+counter: 0
+counter: 38
+sent packet at 37.460021
+counter: 0
+counter: 32
+sent packet at 38.459869
+counter: 0
+counter: 22
+sent packet at 39.459625
+counter: 0
+counter: 43
+sent packet at 40.459442
+counter: 0
+counter: 22
+sent packet at 41.459197
+counter: 0
+counter: 24
+sent packet at 42.459136
+counter: 0
+sent packet at 43.458709
+counter: 0
+counter: 151
+sent packet at 44.467681
+counter: 0
+counter: 45
+sent packet at 45.467468
+counter: 0
+counter: 40
+sent packet at 46.467376
+counter: 0
+counter: 41
+sent packet at 47.467132
+counter: 0
+counter: 40
+sent packet at 48.466979
+counter: 0
+counter: 40
+sent packet at 49.466735
+counter: 0
+counter: 44
+sent packet at 50.466583
+counter: 0
+counter: 40
+sent packet at 51.466339
+counter: 0
+counter: 40
+sent packet at 52.466278
+counter: 0
+counter: 41
+sent packet at 53.466064
+counter: 0
+counter: 43
+sent packet at 54.466003
+counter: 0
+counter: 41
+sent packet at 55.465789
+counter: 0
+counter: 40
+sent packet at 56.465667
+counter: 0
+counter: 42
+sent packet at 57.465576
+counter: 0
+counter: 38
+sent packet at 58.465423
+counter: 0
+counter: 38
+sent packet at 59.465270
+counter: 0
+counter: 38
+sent packet at 0.465118
+counter: 0
+counter: 38
+sent packet at 1.464874
+counter: 0
+counter: 38
+sent packet at 2.464843
+counter: 0
+counter: 40
+sent packet at 3.464599
+counter: 0
+counter: 42
+sent packet at 4.464477
+counter: 0
+counter: 39
+sent packet at 5.464233
+counter: 0
+counter: 38
+sent packet at 6.464050
+counter: 0
+counter: 39
+sent packet at 7.463928
+counter: 0
+counter: 39
+sent packet at 8.463775
+counter: 0
+counter: 47
+sent packet at 9.463562
+counter: 0
+counter: 42
+sent packet at 10.463378
+counter: 0
+counter: 39
+sent packet at 11.463134
+counter: 0
+counter: 38
+sent packet at 12.463073
+counter: 0
+counter: 38
+sent packet at 13.462829
+counter: 0
+counter: 62
+sent packet at 14.466522
+counter: 0
+counter: 1
+sent packet at 15.466278
+counter: 0
+sent packet at 16.465942
+counter: 0
+counter: 3
+sent packet at 17.465820
+counter: 0
+counter: 3
+sent packet at 18.465667
+counter: 0
+counter: 3
+sent packet at 19.465423
+counter: 0
+counter: 3
+sent packet at 20.465270
+counter: 0
+counter: 3
+sent packet at 21.465057
+counter: 0
+counter: 3
+sent packet at 22.464935
+counter: 0
+counter: 3
+sent packet at 23.464721
+counter: 0
+sent packet at 24.464752
+counter: 0
+counter: 3
+sent packet at 25.464569
+counter: 0
+sent packet at 26.464294
+counter: 0
+counter: 11
+sent packet at 27.464202
+counter: 0
+counter: 2
+sent packet at 28.464080
+counter: 0
+counter: 6
+counter: 9997
+sent packet at 29.465270
+counter: 0
+counter: 9998
+sent packet at 30.465454
+counter: 0
+counter: 9990
+sent packet at 31.465026
+counter: 0
+counter: 9990
+sent packet at 32.464813
+counter: 0
+counter: 9994
+sent packet at 33.464721
+counter: 0
+counter: 9992
+sent packet at 34.464569
+counter: 0
+counter: 9993
+sent packet at 35.464294
+counter: 0
+sent packet at 36.463958
+counter: 0
+counter: 9988
+sent packet at 37.464111
+counter: 0
+counter: 9991
+sent packet at 38.463867
+counter: 0
+counter: 9993
+sent packet at 39.463653
+counter: 0
+counter: 9994
+sent packet at 40.463592
+counter: 0
+counter: 9992
+sent packet at 41.463317
+counter: 0
+sent packet at 42.463073
+counter: 0
+sent packet at 43.462646
+counter: 0
+counter: 11
+counter: 9993
+sent packet at 44.462707
+counter: 0
+counter: 9994
+sent packet at 45.462585
+counter: 0
+counter: 9996
+sent packet at 46.462585
+counter: 0
+counter: 9997
+sent packet at 47.462799
+counter: 0
+counter: 9993
+sent packet at 48.462615
+counter: 0
+counter: 9995
+sent packet at 49.462493
+counter: 0
+counter: 9994
+sent packet at 50.462432
+counter: 0
+counter: 9994
+sent packet at 51.462280
+counter: 0
+counter: 10000
+sent packet at 52.462738
+counter: 0
+sent packet at 53.462310
+counter: 0
+counter: 9994
+sent packet at 54.462829
+counter: 0
+counter: 9994
+sent packet at 55.462646
+counter: 0
+counter: 9992
+sent packet at 56.462524
+counter: 0
+counter: 9991
+sent packet at 57.462341
+counter: 0
+counter: 9994
+sent packet at 58.462310
+counter: 0
+sent packet at 59.461914
+counter: 0
+counter: 7
+sent packet at 0.461730
+counter: 0
+counter: 9
+sent packet at 1.461486
+counter: 0
+sent packet at 2.461242
+counter: 0
+counter: 9
+sent packet at 3.461029
+counter: 0
+counter: 12
+sent packet at 4.460845
+counter: 0
+counter: 9
+sent packet at 5.460632
+counter: 0
+counter: 10
+sent packet at 6.460418
+counter: 0
+sent packet at 7.460083
+counter: 0
+counter: 9
+sent packet at 8.459960
+counter: 0
+sent packet at 9.459533
+counter: 0
+counter: 11
+sent packet at 10.459350
+counter: 0
+counter: 12
+sent packet at 11.459136
+counter: 0
+counter: 11
+sent packet at 12.459045
+counter: 0
+counter: 10
+sent packet at 13.458831
+counter: 0
+counter: 12
+sent packet at 14.458679
+counter: 0
+sent packet at 15.458282
+counter: 0
+counter: 21
+sent packet at 16.458129
+counter: 0
+sent packet at 17.457824
+counter: 0
+counter: 36
+sent packet at 18.457672
+counter: 0
+counter: 21
+sent packet at 19.457427
+counter: 0
+counter: 22
+sent packet at 20.457244
+counter: 0
+counter: 22
+sent packet at 21.457000
+counter: 0
+counter: 21
+sent packet at 22.457061
+counter: 0
+counter: 12
+sent packet at 23.456848
+counter: 0
+counter: 21
+sent packet at 24.456695
+counter: 0
+counter: 22
+sent packet at 25.456451
+counter: 0
+counter: 14
+sent packet at 26.456268
+counter: 0
+counter: 13
+sent packet at 27.456176
+counter: 0
+counter: 29
+sent packet at 28.456054
+counter: 0
+counter: 13
+sent packet at 29.455810
+counter: 0
+counter: 21
+sent packet at 30.455627
+counter: 0
+counter: 21
+sent packet at 31.455383
+counter: 0
+counter: 21
+sent packet at 32.455383
+counter: 0
+counter: 11
+sent packet at 33.455139
+counter: 0
+sent packet at 34.454772
+counter: 0
+counter: 21
+sent packet at 35.454528
+counter: 0
+counter: 21
+sent packet at 36.454345
+counter: 0
+counter: 21
+sent packet at 37.454254
+counter: 0
+counter: 22
+sent packet at 38.454101
+counter: 0
+counter: 22
+sent packet at 39.453887
+counter: 0
+counter: 22
+sent packet at 40.453704
+counter: 0
+counter: 22
+sent packet at 41.453460
+counter: 0
+counter: 22
+sent packet at 42.453369
+counter: 0
+counter: 23
+sent packet at 43.453125
+counter: 0
+sent packet at 44.452819
+counter: 0
+counter: 18
+sent packet at 45.452575
+counter: 0
+counter: 21
+sent packet at 46.452362
+counter: 0
+counter: 22
+sent packet at 47.452270
+counter: 0
+counter: 21
+sent packet at 48.452117
+counter: 0
+counter: 21
+sent packet at 49.451873
+counter: 0
+sent packet at 50.451538
+counter: 0
+counter: 21
+sent packet at 51.451293
+counter: 0
+sent packet at 52.451446
+counter: 0
+counter: 14
+sent packet at 53.451324
+counter: 0
+counter: 20
+sent packet at 54.451171
+counter: 0
+counter: 21
+sent packet at 55.450927
+counter: 0
+counter: 21
+sent packet at 56.450805
+counter: 0
+counter: 22
+sent packet at 57.451629
+counter: 0
+sent packet at 58.451354
+counter: 0
+counter: 4
+sent packet at 59.451141
+counter: 0
+counter: 6
+sent packet at 0.451019
+counter: 0
+counter: 3
+sent packet at 1.450836
+counter: 0
+counter: 19
+sent packet at 2.450836
+counter: 0
+counter: 2
+sent packet at 3.450622
+counter: 0
+counter: 22
+sent packet at 4.450469
+counter: 0
+counter: 3
+sent packet at 5.450225
+counter: 0
+counter: 3
+sent packet at 6.450012
+counter: 0
+counter: 3
+sent packet at 7.449890
+counter: 0
+counter: 6
+sent packet at 8.449768
+counter: 0
+counter: 3
+sent packet at 9.449523
+counter: 0
+sent packet at 10.449157
+counter: 0
+counter: 6
+sent packet at 11.448913
+counter: 0
+sent packet at 12.448669
+counter: 0
+counter: 18
+sent packet at 13.448425
+counter: 0
+counter: 12
+sent packet at 14.448242
+counter: 0
+counter: 11
+sent packet at 15.448059
+counter: 0
+counter: 13
+sent packet at 16.447937
+counter: 0
+counter: 11
+sent packet at 17.447814
+counter: 0
+counter: 12
+sent packet at 18.447662
+counter: 0
+sent packet at 19.447235
+counter: 0
+counter: 27
+sent packet at 20.447082
+counter: 0
+counter: 24
+sent packet at 21.446807
+counter: 0
+counter: 28
+sent packet at 22.446716
+counter: 0
+counter: 27
+sent packet at 23.446502
+counter: 0
+counter: 27
+sent packet at 24.446319
+counter: 0
+counter: 27
+sent packet at 25.446044
+counter: 0
+counter: 28
+sent packet at 26.445861
+counter: 0
+counter: 27
+sent packet at 27.445739
+counter: 0
+sent packet at 28.445404
+counter: 0
+counter: 42
+sent packet at 29.445159
+counter: 0
+counter: 37
+sent packet at 30.445007
+counter: 0
+counter: 36
+sent packet at 31.444763
+counter: 0
+counter: 41
+sent packet at 32.444702
+counter: 0
+counter: 39
+sent packet at 33.444458
+counter: 0
+counter: 42
+sent packet at 34.444274
+counter: 0
+counter: 41
+sent packet at 35.444030
+counter: 0
+sent packet at 36.443664
+counter: 0
+counter: 38
+sent packet at 37.443572
+counter: 0
+counter: 37
+sent packet at 38.443420
+counter: 0
+counter: 38
+sent packet at 39.443176
+counter: 0
+counter: 39
+sent packet at 40.443023
+counter: 0
+counter: 38
+sent packet at 41.442779
+counter: 0
+counter: 38
+sent packet at 42.442687
+counter: 0
+counter: 37
+sent packet at 43.442474
+counter: 0
+counter: 39
+sent packet at 44.442321
+counter: 0
+sent packet at 45.441925
+counter: 0
+counter: 42
+sent packet at 46.441741
+counter: 0
+counter: 48
+sent packet at 47.441619
+counter: 0
+counter: 40
+sent packet at 48.441436
+counter: 0
+counter: 39
+sent packet at 49.441192
+counter: 0
+counter: 42
+sent packet at 50.441162
+counter: 0
+counter: 39
+sent packet at 51.440979
+counter: 0
+counter: 39
+sent packet at 52.441009
+counter: 0
+sent packet at 53.440643
+counter: 0
+counter: 39
+sent packet at 54.440490
+counter: 0
+counter: 52
+sent packet at 55.443481
+counter: 0
+counter: 6
+sent packet at 56.443359
+counter: 0
+counter: 17
+sent packet at 57.443267
+counter: 0
+counter: 3
+sent packet at 58.443145
+counter: 0
+counter: 3
+sent packet at 59.442901
+counter: 0
+counter: 6
+sent packet at 0.442779
+counter: 0
+counter: 3
+sent packet at 1.442565
+counter: 0
+counter: 3
+sent packet at 2.442504
+counter: 0
+counter: 1
+sent packet at 3.442291
+counter: 0
+counter: 32
+sent packet at 4.442108
+counter: 0
+counter: 2
+sent packet at 5.441894
+counter: 0
+counter: 6
+sent packet at 6.441680
+counter: 0
+counter: 2
+sent packet at 7.441558
+counter: 0
+counter: 2
+sent packet at 8.441436
+counter: 0
+counter: 2
+sent packet at 9.441192
+counter: 0
+counter: 8
+sent packet at 10.441009
+counter: 0
+counter: 3
+sent packet at 11.440765
+counter: 0
+counter: 4
+sent packet at 12.440704
+counter: 0
+counter: 3
+sent packet at 13.440460
+counter: 0
+sent packet at 14.440124
+counter: 0
+counter: 44
+sent packet at 15.439941
+counter: 0
+counter: 40
+sent packet at 16.439758
+counter: 0
+counter: 39
+sent packet at 17.439666
+counter: 0
+counter: 39
+sent packet at 18.439483
+counter: 0
+counter: 39
+sent packet at 19.439239
+counter: 0
+counter: 43
+sent packet at 20.439453
+counter: 0
+counter: 45
+sent packet at 21.439300
+counter: 0
+counter: 39
+sent packet at 22.439270
+counter: 0
+counter: 37
+sent packet at 23.439056
+counter: 0
+counter: 39
+sent packet at 24.438903
+counter: 0
+counter: 43
+sent packet at 25.439544
+counter: 0
+counter: 33
+sent packet at 26.439453
+counter: 0
+counter: 35
+sent packet at 27.439361
+counter: 0
+counter: 35
+sent packet at 28.439239
+counter: 0
+counter: 39
+sent packet at 29.438995
+counter: 0
+counter: 38
+sent packet at 30.438842
+counter: 0
+sent packet at 31.438415
+counter: 0
+sent packet at 32.438201
+counter: 0
+counter: 39
+sent packet at 33.437957
+counter: 0
+counter: 46
+sent packet at 34.437774
+counter: 0
+counter: 39
+sent packet at 35.437530
+counter: 0
+counter: 41
+sent packet at 36.437347
+counter: 0
+counter: 39
+sent packet at 37.437225
+counter: 0
+counter: 43
+sent packet at 38.437103
+counter: 0
+counter: 40
+sent packet at 39.436859
+counter: 0
+counter: 42
+sent packet at 40.436676
+counter: 0
+counter: 39
+sent packet at 41.436431
+counter: 0
+counter: 39
+sent packet at 42.436340
+counter: 0
+counter: 38
+sent packet at 43.436126
+counter: 0
+counter: 42
+sent packet at 44.435974
+counter: 0
+counter: 44
+sent packet at 45.435791
+counter: 0
+counter: 48
+sent packet at 46.435577
+counter: 0
+counter: 38
+sent packet at 47.435455
+counter: 0
+counter: 52
+sent packet at 48.438507
+counter: 0
+sent packet at 49.438079
+counter: 0
+counter: 8
+sent packet at 50.437896
+counter: 0
+counter: 8
+sent packet at 51.437652
+counter: 0
+counter: 8
+sent packet at 52.437591
+counter: 0
+counter: 7
+sent packet at 53.437347
+counter: 0
+counter: 9
+sent packet at 54.437164
+counter: 0
+sent packet at 55.436706
+counter: 0
+counter: 11
+sent packet at 56.436553
+counter: 0
+counter: 10
+sent packet at 57.436462
+counter: 0
+counter: 9
+sent packet at 58.436309
+counter: 0
+counter: 12
+sent packet at 59.436065
+counter: 0
+counter: 11
+sent packet at 0.435913
+counter: 0
+counter: 10
+sent packet at 1.435699
+counter: 0
+counter: 11
+sent packet at 2.435638
+counter: 0
+counter: 9
+sent packet at 3.435394
+counter: 0
+counter: 11
+sent packet at 4.435241
+counter: 0
+counter: 42
+sent packet at 5.434967
+counter: 0
+counter: 41
+sent packet at 6.434783
+counter: 0
+counter: 38
+sent packet at 7.434661
+counter: 0
+counter: 39
+sent packet at 8.434509
+counter: 0
+sent packet at 9.434112
+counter: 0
+counter: 40
+sent packet at 10.433929
+counter: 0
+counter: 39
+sent packet at 11.433685
+counter: 0
+counter: 48
+sent packet at 12.433624
+counter: 0
+counter: 41
+sent packet at 13.433380
+counter: 0
+sent packet at 14.433044
+counter: 0
+counter: 44
+sent packet at 15.432830
+counter: 0
+counter: 41
+sent packet at 16.432678
+counter: 0
+counter: 39
+sent packet at 17.432556
+counter: 0
+counter: 40
