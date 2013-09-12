@@ -143,7 +143,7 @@ int main () {
   return 0;
 }
 int calc(float array[], int cap){
-    float histo2[31];
+    int histo2[31];
     for(int i=0;i<31;i++)
       histo2[i] = 0;
     double stdev = 0.0, variance = 0.0;
@@ -162,76 +162,54 @@ int calc(float array[], int cap){
     average = average / cap;
     for(int i=0;i<=cap;i++){
       t4 = array[i];
-      if(t4 > 1){
-	if(t4 < .00025){
-	  histo2[1]++;
-	  // cout << line << endl;
-	}
-	else if(t4 < .0005)
-	  histo2[2]++;
-	else if(t4 < .00075)
-	  histo2[3]++;
-	else if(t4 < .001)
-	  histo2[4]++;
-	else if(t4 < .00125)
-	  histo2[5]++;
-	else if(t4 < .0015)
-	  histo2[6]++;
-	else if(t4 < .00175)
-	  histo2[7]++;
-	else if(t4 < .002)
-	  histo2[8]++;
-	else if(t4 < .00225)
-	  histo2[9]++;
-	else if(t4 > .00225)
-	  histo2[10]++;
+      //cout << t4 << endl;
+      if(t4 < .0005){
+	histo2[1]++;
+	// cout << line << endl;
       }
-      else{
-	//t4 = 1 - t4;
-	//printf("t4: %f2.6\n", t4);
-	if(t4 == 0){
-	  //cout << line << endl;
-	  histo2[0]++;
-	}
-	else if(t4 < .00025)
-	  histo2[11]++;
-	else if(t4 < .0005)
-	  histo2[12]++;
-	else if(t4 < .00075)
-	  histo2[13]++;
-	else if(t4 < .001)
-	  histo2[14]++;
-	else if(t4 < .00125)
-	  histo2[15]++;
-	else if(t4 < .0015)
-	  histo2[16]++;
-	else if(t4 < .00175)
-	  histo2[17]++;
-	else if(t4 < .002)
-	  histo2[18]++;
-	else if(t4 < .00225)
-	  histo2[19]++;
-	else if(t4 < .0025)
-	  histo2[20]++;
-	else if(t4 < .00275)
-	  histo2[21]++;
-	else if(t4 < .003)
-	  histo2[22]++;
-  	else if(t4 < .00325)
-	  histo2[23]++;
-	else if(t4 < .0035)
-	  histo2[24]++;
-	else if(t4 < .00375)
-	  histo2[25]++;
-	else if(t4 > .00375)
-	  histo2[26]++;
-	
-      }
-      if(array[i] > average)
-	variance += (array[i] - average) * (array[i] - average);
-      else
-	variance += (average - array[i]) * (average - array[i]);
-      //printf("variance: %1.12f\n", variance);
+      else if(t4 < .001)
+	histo2[2]++;
+      else if(t4 < .0015)
+	histo2[3]++;
+      else if(t4 < .002)
+	histo2[4]++;
+      else if(t4 < .0025)
+	histo2[5]++;
+      else if(t4 < .003)
+	histo2[6]++;
+      else if(t4 < .0035)
+	histo2[7]++;
+      else if(t4 < .004)
+	histo2[8]++;
+      else if(t4 < .0045)
+	histo2[9]++;
+      else if(t4 < .005)
+	histo2[10]++;
+      else if(t4 < .0055)
+	histo2[21]++;
+      else if(t4 < .006)
+	histo2[22]++;
+      else if(t4 < .0065)
+	histo2[23]++;
+      else if(t4 < .007)
+	histo2[24]++;
+      else if(t4 < .0075)
+	histo2[25]++;
+      else if(t4 < .008)
+	histo2[26]++;
+      else if(t4 < .0085)
+	histo2[27]++;
+      else if(t4 < .009)
+	histo2[28]++;
+      else if(t4 < .0095)
+	histo2[29]++;
+      else if(t4 > .0095)
+	histo2[30]++;
+    if(array[i] > average)
+      variance += (array[i] - average) * (array[i] - average);
+    else
+      variance += (average - array[i]) * (average - array[i]);
+    //printf("variance: %1.12f\n", variance);
     }
     
     variance = variance / cap;
@@ -243,33 +221,37 @@ int calc(float array[], int cap){
     for(int i=0;i<27;i++){
       if(histo2[i] != 0){
 	switch(i){
-	case 26: printf("T < 3.75ms: %2.2f%%\n", (histo2[26]/a * 100)); break;
-	case 25: printf("T = 3.75ms to 3.55ms: %2.2f%%\n", (histo2[25]/a * 100)); break;
-	case 24: printf("T = 3.5ms to 3.25ms: %2.2f%%\n", (histo2[24]/a * 100)); break;
-	case 23: printf("T = 3.25ms to 3.0ms: %2.2f%%\n", (histo2[23]/a * 100)); break;
-	case 22: printf("T = 3.0ms to 2.75ms: %2.2f%%\n", (histo2[22]/a * 100)); break;
-	case 21: printf("T = 2.75ms to 2.5ms: %2.2f%%\n", (histo2[21]/a * 100)); break;
-	case 20: printf("T = 2.5ms to 2.25ms: %2.2f%%\n", (histo2[20]/a * 100)); break;
-	case 19: printf("T = 2.25ms to 2.0ms: %2.2f%%\n", (histo2[19]/a*100)); break;
-	case 18: printf("T = 2.0ms to 1.75ms: %2.2f%%\n", (histo2[18]/a*100)); break;
-	case 17: printf("T = 1.75ms to 1.5ms: %2.2f%%\n", (histo2[17]/a*100)); break;
-	case 16: printf("T = 1.5ms to 1.25ms: %2.2f%%\n", (histo2[16]/a*100)); break;
-	case 15: printf("T = 1.25ms to 1.0ms: %2.2f%%\n", (histo2[15]/a*100)); break;
-	case 14: printf("T = 1.0ms to 0.75ms: %2.2f%%\n", (histo2[14]/a*100)); break;
-	case 13: printf("T = 0.75ms to 0.5ms: %2.2f%%\n", (histo2[13]/a*100)); break;
-	case 12: printf("T = 0.5ms to 0.25ms: %2.2f%%\n", (histo2[12]/a*100)); break;
-	case 11: printf("T = 0.25ms to 0.0ms: %2.2f%%\n", (histo2[11]/a*100)); break;
-	  /*case 0: printf("T = 1 second: %i\n", histo2[0]); break;
-	    case 10: printf("T > 2.25ms: %i\n", histo2[10]); break;
-	    case 9: printf("T = 2.0ms to 2.25ms: %i\n", histo2[9]); break;
-	    case 8: printf("T = 1.75ms to 2.0ms: %i\n", histo2[8]); break;
-	    case 7: printf("T = 1.5ms to 1.75ms: %i\n", histo2[7]); break;
-	    case 6: printf("T = 1.25ms to 1.5ms: %i\n", histo2[6]); break;
-	    case 5: printf("T = 1.0ms to 1.25ms: %i\n", histo2[5]); break;
-	    case 4: printf("T = 0.75ms to 1.0ms: %i\n", histo2[4]); break;
-	    case 3: printf("T = 0.5ms to 0.75ms: %i\n", histo2[3]); break;
-	    case 2: printf("T = 0.25ms to 0.5ms: %i\n", histo2[2]); break;
-	    case 1: printf("T = 0ms to 0.25ms: %i\n", histo2[1]); break;*/
+	case 30: printf("T > 9.5ms: %i\n", (histo2[26])); break;
+	case 29: printf("T = 9.0ms to 9.5ms: %i\n", (histo2[25])); break;
+	case 28: printf("T = 8.5ms to 9.0ms: %i\n", (histo2[25])); break;
+	case 27: printf("T = 8.0ms to 8.5ms: %i\n", (histo2[25])); break;
+	case 26: printf("T = 7.5ms to 8.0ms: %i\n", (histo2[25])); break;
+	case 25: printf("T = 7.0ms to 7.5ms: %i\n", (histo2[25])); break;
+      case 24: printf("T = 6.5ms to 7.0ms: %i\n", (histo2[24])); break;
+      case 23: printf("T = 6.0ms to 6.5ms: %i\n", (histo2[23])); break;
+      case 22: printf("T = 5.5ms to 6.0ms: %i\n", (histo2[22])); break;
+      case 21: printf("T = 5.0ms to 5.5ms: %i\n", (histo2[21])); break;
+      case 20: printf("T < -4.5ms: %i\n", (histo2[20])); break;
+      case 19: printf("T = -4.5ms to -4.0ms: %i\n", histo2[19]); break;
+      case 18: printf("T = -4.0ms to -3.5ms: %i\n", histo2[18]); break;
+      case 17: printf("T = -3.5ms to -3.0ms: %i\n", histo2[17]); break;
+      case 16: printf("T = -3.0ms to -2.5ms: %i\n", histo2[16]); break;
+      case 15: printf("T = -2.5ms to -2.0ms: %i\n", histo2[15]); break;
+      case 14: printf("T = -2.0ms to -1.5ms: %i\n", histo2[14]); break;
+      case 13: printf("T = -1.5ms to -1.0ms: %i\n", histo2[13]); break;
+      case 12: printf("T = -1.0ms to -0.5ms: %i\n", histo2[12]); break;
+      case 11: printf("T = -0.5ms to -0.0ms: %i\n", histo2[11]); break;
+      case 0: printf("T = 1 second: %i\n", histo2[0]); break;
+      case 10: printf("T = 4.5ms to 5.0ms: %i\n", histo2[10]); break;
+      case 9: printf("T = 4.0ms to 4.5ms: %i\n", histo2[9]); break;
+      case 8: printf("T = 3.5ms to 4.0ms: %i\n", histo2[8]); break;
+      case 7: printf("T = 3.0ms to 3.5ms: %i\n", histo2[7]); break;
+      case 6: printf("T = 2.5ms to 3.0ms: %i\n", histo2[6]); break;
+      case 5: printf("T = 2.0ms to 2.5ms: %i\n", histo2[5]); break;
+      case 4: printf("T = 1.5ms to 2.0ms: %i\n", histo2[4]); break;
+      case 3: printf("T = 1ms to 1.5ms: %i\n", histo2[3]); break;
+      case 2: printf("T = 0.5ms to 1ms: %i\n", histo2[2]); break;
+      case 1: printf("T = 0ms to 0.5ms: %i\n", histo2[1]); break;
 	}
       }
     }

@@ -86,7 +86,7 @@ int main () {
 	   // r2[zz] = t6 - t5;
 	   // r3[zz] = t7 - t6;
 	   // r4[zz] = t2 - t7;
-	   if((t2 -t1) > 0.025){
+	   if((t2 -t1) > 0.05){
 	     b++;
 	     continue;
 	   }

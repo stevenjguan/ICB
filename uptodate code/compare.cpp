@@ -214,7 +214,7 @@ int main () {
     printf("Smallest periodic difference over one second: %1.9f seconds\n", p_low);
     }
   float r = 0;
-  cout << "Counter histogram: ";
+  /*cout << "Counter histogram: ";
   float rec = pr - histo[0];
   float percent = 0.0;
   int start = 0, end = 0;
@@ -250,6 +250,6 @@ int main () {
   }
   else
     r = 0;
-  printf("Total percentage of packets received in refractory period (%i): %2.2f%%\n", refractory,r);
+    printf("Total percentage of packets received in refractory period (%i): %2.2f%%\n", refractory,r);*/
   return 0;
 }
